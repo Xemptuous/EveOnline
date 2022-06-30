@@ -1,0 +1,1 @@
+[{"name": "csrftoken", "value": "CSRF_VALUE", "path": "/", "domain": "URL_DOMAIN", "secure": false, "httpOnly": false, "sameSite": "None"}, {"name": "sessionid", "value": "COOKIE_VALUE", "path": "/", "domain": "URL_DOMAIN", "secure": false, "httpOnly": false, "sameSite": "None"}]
