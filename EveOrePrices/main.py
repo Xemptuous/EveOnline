@@ -12,10 +12,6 @@ def main():
     if sys.argv[1] == 'update':
         print("Updating Mineral Prices...")
         updateMineralPrices()
-        # print("")
-        # print("Updating Ore Prices...")
-        # updateOrePrices()
-        # print("Ore Prices Updated")
         print("")
         print("Updating Complete")
         return
@@ -50,9 +46,6 @@ def main():
 
             refinedPrice = str("{:.2f}").format(getRefinedPrice(mineralsList, volume, allMinerals))
             tempList.append([name, yieldBonus, refinedPrice])
-            # # Removed. See function comment.
-            # sellPrice = getMarketPrice(allOres)
-            # print(f"{name:>25} | {yieldBonus:<5} |{sellPrice:^15}|{refinedPrice:^15}|")
         finalList.append(tempList)
 
     vals = sorted([val[-1] for item in finalList for val in item], key=float)
@@ -122,19 +115,15 @@ def updateMineralPrices():
         width = idx + 1
         bar = f"{bcolors.BLUE}[" + "#" * width + " " * (len(sortedMinerals) - width) + f"]{bcolors.ENDC}"
         type_id = allMinerals[mineral]['typeID']
+        
         url = f'https://api.evemarketer.com/ec/marketstat/json?typeid={type_id}&usesystem=30000142'
         data = requests.get(url).json()[0]
 
-        # oldPrice = allMinerals[mineral]['price']
         newPrice = round(data['sell']['fivePercent'],2)
         if newPrice == 0.0 or newPrice == 0:
             url = f'https://api.evemarketer.com/ec/marketstat/json?typeid={type_id}&usesystem=30000142'
             data = requests.get(url).json()[0]
-
-            # oldPrice = allMinerals[mineral]['price']
             newPrice = round(data['buy']['fivePercent'],2)
-
-        # print(f"  -Updated: {mineral:<20} Old: {oldPrice:<10} New: {newPrice:<10}")
         allMinerals[mineral]['price'] = newPrice
         count += 1
         if count < 10:
@@ -157,46 +146,7 @@ def printANSIColors():
             code = str(i * 16 + j)
             sys.stdout.write(u"\u001b[38;5;" + code + "m " + code.ljust(4))
         print(u"\u001b[0m")
-
-
-"""
-Removed due to having to compare batch-compressed, compressed, and raw ores, and the differences in value between them on the market.
-Only need refined prices due to current alliance buyback, and relative value of materials.
-"""
-# def getMarketPrice(data):
-#     for ore in data:
-#         return ore['askPrice']
-
-
-# def updateOrePrices():
-#     with open("/home/user/Python/Projects/EveOrePrices/orePrices.json") as oreFile:
-#         allOres = json.load(oreFile)
-#     for parent in allOres:
-#         for i in range(len(allOres[parent])):
-#             ore = allOres[parent][i]
-#             compressed_id = ore['compressedID']
-#             type_id = ore['typeID']
-#             url = f'https://api.evemarketer.com/ec/marketstat/json?typeid={compressed_id}&usesystem=30000142'
-#             data = requests.get(url).json()[0]
-#             newPrice = round(data['sell']['fivePercent'],2)
-#             if newPrice == 0.0 or newPrice == 0:
-#                 url = f'https://api.evemarketer.com/ec/marketstat/json?typeid={compressed_id}&usesystem=30000142'
-#                 data = requests.get(url).json()[0]
-#                 newPrice = round(data['buy']['fivePercent'], 2)
-#                 if newPrice == 0.0 or newPrice == 0:
-#                     url = f'https://api.evemarketer.com/ec/marketstat/json?typeid={type_id}&usesystem=30000142'
-#                     data = requests.get(url).json()[0]
-#                     newPrice = round(data['sell']['fivePercent'], 2)
-#                     if newPrice == 0.0 or newPrice == 0:
-#                         url = f'https://api.evemarketer.com/ec/marketstat/json?typeid={type_id}&usesystem=30000142'
-#                         data = requests.get(url).json()[0]
-#                         newPrice = round(data['buy']['fivePercent'], 2)
-#             print(f"  -Updated: {ore['ore']:<25} Old: {ore['askPrice']:<10} New: {newPrice:<10}")
-#             allOres[parent][i]['askPrice'] = newPrice  # updating previous price to new price
-#
-#     with open("/home/user/Python/Projects/EveOrePrices/orePrices.json", 'w') as outfile:
-#         json.dump(allOres, outfile)
-
+        
 
 if __name__ == "__main__":
     main()
