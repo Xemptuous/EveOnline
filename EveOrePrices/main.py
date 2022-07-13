@@ -127,9 +127,9 @@ def updateMineralPrices():
         allMinerals[mineral]['price'] = newPrice
         count += 1
         if count < 10:
-            print(u"\u001b[1000D" + bar + f" {count} /{total}" + f" {mineral:^5}", end=f"{' '*(30-(len(mineral)))}")
+            print(u"\u001b[1000D" + bar + f" {count} /{total}" + f" {mineral:^5}", end=f"{' '*(20-(len(mineral)))}")
         else:
-            print(u"\u001b[1000D" + bar + f" {count}/{total}" + f" {mineral:^5}", end=f"{' ' * (30 - (len(mineral)))}")
+            print(u"\u001b[1000D" + bar + f" {count}/{total}" + f" {mineral:^5}", end=f"{' ' * (20 - (len(mineral)))}")
 
         sys.stdout.flush()
 
