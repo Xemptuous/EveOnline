@@ -41,7 +41,7 @@ def main():
             name = ore['ore']
             volume = ore['volume']
             yieldBonus = "+" + str(int(ore['bonus']*100)) + "%"
-            minerals = list(ore.items())[6:-1]  # getting all minerals
+            minerals = list(ore.items())[6:-2]  # getting all minerals
             mineralsList = [[key, val] for key, val in minerals if val != 0]  # only minerals that have value > 0
 
             refinedPrice = str("{:.2f}").format(getRefinedPrice(mineralsList, volume, allMinerals))
