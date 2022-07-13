@@ -14,7 +14,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0.075,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "crimson arkonor",
@@ -30,7 +32,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0.079,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "prime arkonor",
@@ -46,7 +50,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0.083,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "flawless arkonor",
@@ -62,7 +68,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0.086,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "bistot": [
@@ -80,7 +88,9 @@
          "nocxium": 0,
          "zydrine": 0.1,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "triclinic bistot",
@@ -96,7 +106,9 @@
          "nocxium": 0,
          "zydrine": 0.105,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "monoclinic bistot",
@@ -112,7 +124,9 @@
          "nocxium": 0,
          "zydrine": 0.11,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "cubic bistot",
@@ -128,7 +142,9 @@
          "nocxium": 0,
          "zydrine": 0.115,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "crokite": [
@@ -146,7 +162,9 @@
          "nocxium": 0.5,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "sharp crokite",
@@ -162,7 +180,9 @@
          "nocxium": 0.525,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "crystalline crokite",
@@ -178,7 +198,9 @@
          "nocxium": 0.55,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "pellucid crokite",
@@ -194,7 +216,9 @@
          "nocxium": 0.575,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "dark ochre": [
@@ -212,7 +236,9 @@
          "nocxium": 0.4,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "onyx ochre",
@@ -228,7 +254,9 @@
          "nocxium": 0.42,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "obsidian ochre",
@@ -244,7 +272,9 @@
          "nocxium": 0.44,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "jet ochre",
@@ -260,7 +290,9 @@
          "nocxium": 0.46,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "gneiss": [
@@ -278,7 +310,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "iridescent gneiss",
@@ -294,7 +328,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "prismatic gneiss",
@@ -310,7 +346,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "brilliant gneiss",
@@ -326,7 +364,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "hedbergite": [
@@ -344,7 +384,9 @@
          "nocxium": 0.4,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "vitric hedbergite",
@@ -360,7 +402,9 @@
          "nocxium": 0.42,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "glazed hedbergite",
@@ -376,7 +420,9 @@
          "nocxium": 0.44,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "lustrous hedbergite",
@@ -392,7 +438,9 @@
          "nocxium": 0.46,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "hemorphite": [
@@ -410,7 +458,9 @@
          "nocxium": 0.3,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "vivid hemorphite",
@@ -426,7 +476,9 @@
          "nocxium": 0.315,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "radiant hemorphite",
@@ -442,7 +494,9 @@
          "nocxium": 0.33,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "scintillating hemorphite",
@@ -458,7 +512,9 @@
          "nocxium": 0.345,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "jaspet": [
@@ -476,7 +532,9 @@
          "nocxium": 0.25,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "pure jaspet",
@@ -492,7 +550,9 @@
          "nocxium": 0.263,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "pristine jaspet",
@@ -508,7 +568,9 @@
          "nocxium": 0.275,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "immaculate jaspet",
@@ -524,7 +586,9 @@
          "nocxium": 0.288,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "kernite": [
@@ -542,7 +606,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "luminous kernite",
@@ -558,7 +624,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "fiery kernite",
@@ -574,7 +642,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "resplendant kernite",
@@ -590,7 +660,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "mercoxit": [
@@ -608,7 +680,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0.014
+         "morphite": 0.014,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "magma mercoxit",
@@ -624,7 +698,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0.015
+         "morphite": 0.015,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "vitreous mercoxit",
@@ -640,7 +716,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0.016
+         "morphite": 0.016,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "omber": [
@@ -658,7 +736,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "silvery omber",
@@ -674,7 +754,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "golden omber",
@@ -690,7 +772,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "platinoid omber",
@@ -706,7 +790,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "plagioclase": [
@@ -724,7 +810,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "azure plagioclase",
@@ -740,7 +828,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "rich plagioclase",
@@ -756,7 +846,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "sparkling plagioclase",
@@ -772,7 +864,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "pyroxeres": [
@@ -790,7 +884,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "solid pyroxeres",
@@ -806,7 +902,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "viscous pyroxeres",
@@ -822,7 +920,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "opulent pyroxeres",
@@ -838,7 +938,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "scordite": [
@@ -856,7 +958,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "condensed scordite",
@@ -872,7 +976,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "massive scordite",
@@ -888,7 +994,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "glossy scordite",
@@ -904,7 +1012,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "spodumain": [
@@ -922,7 +1032,9 @@
          "nocxium": 0.1,
          "zydrine": 0.05,
          "megacyte": 0.025,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "bright spodumain",
@@ -938,7 +1050,9 @@
          "nocxium": 0.105,
          "zydrine": 0.053,
          "megacyte": 0.026,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "gleaming spodumain",
@@ -954,7 +1068,9 @@
          "nocxium": 0.11,
          "zydrine": 0.055,
          "megacyte": 0.028,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "dazzling spodumain",
@@ -970,11 +1086,13 @@
          "nocxium": 0.115,
          "zydrine": 0.057,
          "megacyte": 0.029,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "veldspar": [
-     {
+      {
          "ore": "veldspar",
          "typeID": 1230,
          "compressedID": 62516,
@@ -988,7 +1106,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "concentrated veldspar",
@@ -1004,7 +1124,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "dense veldspar",
@@ -1020,7 +1142,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "stable veldspar",
@@ -1036,7 +1160,9 @@
          "nocxium": 0,
          "zydrine": 0,
          "megacyte": 0,
-         "morphite": 0
+         "morphite": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "bitumens": [
@@ -1045,7 +1171,7 @@
          "typeID": 45492,
          "compressedID": 62454,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 6.5,
          "atmospheric_gases": 0,
@@ -1067,15 +1193,17 @@
          "neodymium": 0,
          "dysprosium": 0,
          "thulium": 0,
-         "pyerite": "600",
-         "mexallon": 40
+         "pyerite": 600,
+         "mexallon": 40,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "brimful bitumens",
          "typeID": 46284,
          "compressedID": 62455,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 7.5,
          "atmospheric_gases": 0,
@@ -1097,15 +1225,17 @@
          "neodymium": 0,
          "dysprosium": 0,
          "thulium": 0,
-         "pyerite": "690",
-         "mexallon": 46
+         "pyerite": 690,
+         "mexallon": 46,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "glistening bitumens",
          "typeID": 46285,
          "compressedID": 62458,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 13,
          "atmospheric_gases": 0,
@@ -1127,8 +1257,10 @@
          "neodymium": 0,
          "dysprosium": 0,
          "thulium": 0,
-         "pyerite": "1,200",
-         "mexallon": 80
+         "pyerite": 1200,
+         "mexallon": 80,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "carnotite": [
@@ -1137,7 +1269,7 @@
          "typeID": 45502,
          "compressedID": 62492,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 1.5,
@@ -1160,14 +1292,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "replete carnotite",
          "typeID": 46304,
          "compressedID": 62493,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 1.7,
@@ -1190,14 +1324,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "glowing carnotite",
          "typeID": 46305,
          "compressedID": 62494,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 3,
@@ -1220,7 +1356,9 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "chromite": [
@@ -1229,7 +1367,7 @@
          "typeID": 45501,
          "compressedID": 62480,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 1,
          "atmospheric_gases": 0,
@@ -1252,14 +1390,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "lavish chromite",
          "typeID": 46302,
          "compressedID": 62481,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 1.2,
          "atmospheric_gases": 0,
@@ -1282,14 +1422,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "shimmering chromite",
          "typeID": 46303,
          "compressedID": 62482,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 2,
          "atmospheric_gases": 0,
@@ -1312,7 +1454,9 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "cinnabar": [
@@ -1321,7 +1465,7 @@
          "typeID": 45506,
          "compressedID": 62495,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -1344,14 +1488,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "replete cinnabar",
          "typeID": 46310,
          "compressedID": 62496,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -1374,14 +1520,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "glowing cinnabar",
          "typeID": 46311,
          "compressedID": 62497,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -1404,7 +1552,9 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "cobaltite": [
@@ -1413,7 +1563,7 @@
          "typeID": 45494,
          "compressedID": 62474,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -1436,14 +1586,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "copious cobaltite",
          "typeID": 46288,
          "compressedID": 62475,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -1466,14 +1618,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "twinkling cobaltite",
          "typeID": 46289,
          "compressedID": 62476,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -1496,7 +1650,9 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "coesite": [
@@ -1505,7 +1661,7 @@
          "typeID": 45493,
          "compressedID": 62457,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -1527,15 +1683,17 @@
          "neodymium": 0,
          "dysprosium": 0,
          "thulium": 0,
-         "pyerite": "200",
-         "mexallon": 40
+         "pyerite": 200,
+         "mexallon": 40,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "brimful coesite",
          "typeID": 46286,
          "compressedID": 62458,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -1557,15 +1715,17 @@
          "neodymium": 0,
          "dysprosium": 0,
          "thulium": 0,
-         "pyerite": "230",
-         "mexallon": 46
+         "pyerite": 230,
+         "mexallon": 46,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "glistening coesite",
          "typeID": 46287,
          "compressedID": 62459,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -1587,8 +1747,10 @@
          "neodymium": 0,
          "dysprosium": 0,
          "thulium": 0,
-         "pyerite": "400",
-         "mexallon": 80
+         "pyerite": 400,
+         "mexallon": 80,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "euxenite": [
@@ -1597,7 +1759,7 @@
          "typeID": 45495,
          "compressedID": 62471,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -1620,14 +1782,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "copious euxenite",
          "typeID": 46290,
          "compressedID": 62472,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -1650,14 +1814,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "twinkling euxenite",
          "typeID": 46291,
          "compressedID": 62473,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -1680,7 +1846,9 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "loparite": [
@@ -1689,7 +1857,7 @@
          "typeID": 45512,
          "compressedID": 62504,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 2,
          "atmospheric_gases": 0,
@@ -1712,14 +1880,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "bountiful loparite",
          "typeID": 46316,
          "compressedID": 62505,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 2.3,
          "atmospheric_gases": 0,
@@ -1742,14 +1912,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "shining loparite",
          "typeID": 46317,
          "compressedID": 62506,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 4,
          "atmospheric_gases": 0,
@@ -1772,7 +1944,9 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "monazite": [
@@ -1781,7 +1955,7 @@
          "typeID": 45511,
          "compressedID": 62507,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -1804,14 +1978,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "bountiful monazite",
          "typeID": 46314,
          "compressedID": 62508,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -1834,14 +2010,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "shining monazite",
          "typeID": 46315,
          "compressedID": 62509,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -1864,7 +2042,9 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "otavite": [
@@ -1873,7 +2053,7 @@
          "typeID": 45498,
          "compressedID": 62483,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 1,
@@ -1896,14 +2076,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "lavish otavite",
          "typeID": 46296,
          "compressedID": 62484,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 1.2,
@@ -1926,14 +2108,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "shimmering otavite",
          "typeID": 46297,
          "compressedID": 62485,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 2,
@@ -1956,7 +2140,9 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "pollucite": [
@@ -1965,7 +2151,7 @@
          "typeID": 45504,
          "compressedID": 62498,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 1.5,
          "atmospheric_gases": 0,
@@ -1988,14 +2174,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "replete pollucite",
          "typeID": 46308,
          "compressedID": 62499,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 1.7,
          "atmospheric_gases": 0,
@@ -2018,14 +2206,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "glowing pollucite",
          "typeID": 46309,
          "compressedID": 62500,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 3,
          "atmospheric_gases": 0,
@@ -2048,7 +2238,9 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "scheelite": [
@@ -2057,7 +2249,7 @@
          "typeID": 45497,
          "compressedID": 62468,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2080,14 +2272,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "copious scheelite",
          "typeID": 46294,
          "compressedID": 62469,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2110,14 +2304,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "twinkling scheelite",
          "typeID": 46295,
          "compressedID": 62470,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2140,7 +2336,9 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "sperrylite": [
@@ -2149,7 +2347,7 @@
          "typeID": 45499,
          "compressedID": 62486,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2172,14 +2370,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "lavish sperrylite",
          "typeID": 46298,
          "compressedID": 62487,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2202,14 +2402,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "shimmering sperrylite",
          "typeID": 46299,
          "compressedID": 62488,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2232,7 +2434,9 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "sylvite": [
@@ -2241,7 +2445,7 @@
          "typeID": 45491,
          "compressedID": 62460,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2263,15 +2467,17 @@
          "neodymium": 0,
          "dysprosium": 0,
          "thulium": 0,
-         "pyerite": "400",
-         "mexallon": 40
+         "pyerite": 400,
+         "mexallon": 40,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "brimful sylvite",
          "typeID": 46282,
          "compressedID": 62461,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2293,15 +2499,17 @@
          "neodymium": 0,
          "dysprosium": 0,
          "thulium": 0,
-         "pyerite": "460",
-         "mexallon": 46
+         "pyerite": 460,
+         "mexallon": 46,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "glistening sylvite",
          "typeID": 46283,
          "compressedID": 62462,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2323,8 +2531,10 @@
          "neodymium": 0,
          "dysprosium": 0,
          "thulium": 0,
-         "pyerite": "800",
-         "mexallon": 80
+         "pyerite": 800,
+         "mexallon": 80,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "titanite": [
@@ -2333,7 +2543,7 @@
          "typeID": 45496,
          "compressedID": 62477,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2356,14 +2566,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "copious titanite",
          "typeID": 46292,
          "compressedID": 62478,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2386,14 +2598,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "twinkling titanite",
          "typeID": 46293,
          "compressedID": 62479,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2416,7 +2630,9 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "vanadinite": [
@@ -2425,7 +2641,7 @@
          "typeID": 45500,
          "compressedID": 62489,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2448,14 +2664,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "lavish vanadinite",
          "typeID": 46300,
          "compressedID": 62490,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2478,14 +2696,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "shimmering vanadinite",
          "typeID": 46301,
          "compressedID": 62491,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2508,7 +2728,9 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "xenotime": [
@@ -2517,7 +2739,7 @@
          "typeID": 45510,
          "compressedID": 62510,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 2,
@@ -2540,14 +2762,16 @@
          "dysprosium": 2.2,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "bountiful xenotime",
          "typeID": 46312,
          "compressedID": 62511,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 2.3,
@@ -2570,14 +2794,16 @@
          "dysprosium": 2.5,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "shining xenotime",
          "typeID": 46313,
          "compressedID": 62512,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 4,
@@ -2600,7 +2826,9 @@
          "dysprosium": 4.4,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "ytterbite": [
@@ -2609,7 +2837,7 @@
          "typeID": 45513,
          "compressedID": 62513,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2632,14 +2860,16 @@
          "dysprosium": 0,
          "thulium": 2.2,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "bountiful ytterbite",
          "typeID": 46318,
          "compressedID": 62514,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2662,14 +2892,16 @@
          "dysprosium": 0,
          "thulium": 2.5,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "shining ytterbite",
          "typeID": 46319,
          "compressedID": 62515,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2692,7 +2924,9 @@
          "dysprosium": 0,
          "thulium": 4.4,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "zeolites": [
@@ -2701,7 +2935,7 @@
          "typeID": 45490,
          "compressedID": 62463,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 6.5,
@@ -2723,15 +2957,17 @@
          "neodymium": 0,
          "dysprosium": 0,
          "thulium": 0,
-         "pyerite": "800",
-         "mexallon": 40
+         "pyerite": 800,
+         "mexallon": 40,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "brimful zeolites",
          "typeID": 46280,
          "compressedID": 62464,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 7.5,
@@ -2753,15 +2989,17 @@
          "neodymium": 0,
          "dysprosium": 0,
          "thulium": 0,
-         "pyerite": "920",
-         "mexallon": 46
+         "pyerite": 920,
+         "mexallon": 46,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "glistening zeolites",
          "typeID": 46281,
          "compressedID": 62465,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 13,
@@ -2783,8 +3021,10 @@
          "neodymium": 0,
          "dysprosium": 0,
          "thulium": 0,
-         "pyerite": "1,600",
-         "mexallon": 80
+         "pyerite": 1600,
+         "mexallon": 80,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "zircon": [
@@ -2793,7 +3033,7 @@
          "typeID": 45503,
          "compressedID": 62501,
          "volume": 10,
-         "yield_bonus": 0,
+         "bonus": 0,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2816,14 +3056,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "replete zircon",
          "typeID": 46306,
          "compressedID": 62502,
          "volume": 10,
-         "yield_bonus": 0.15,
+         "bonus": 0.15,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2846,14 +3088,16 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "glowing zircon",
          "typeID": 46307,
          "compressedID": 62503,
          "volume": 10,
-         "yield_bonus": 1,
+         "bonus": 1,
          "placeholder": 0,
          "hydrocarbons": 0,
          "atmospheric_gases": 0,
@@ -2876,7 +3120,9 @@
          "dysprosium": 0,
          "thulium": 0,
          "pyerite": 0,
-         "mexallon": 0
+         "mexallon": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "blue_ice": [
@@ -2893,7 +3139,9 @@
          "oxygen": 414,
          "helium": 0,
          "hydrogen": 0,
-         "nitrogen": 0
+         "nitrogen": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "thick blue ice",
@@ -2908,7 +3156,9 @@
          "oxygen": 483,
          "helium": 0,
          "hydrogen": 0,
-         "nitrogen": 0
+         "nitrogen": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "clear_icicle": [
@@ -2916,16 +3166,18 @@
          "ore": "clear icicle",
          "typeID": 16262,
          "compressedID": 28434,
-         "heavy_water": 69,
          "placeholder1": 0,
          "placeholder2": 0,
          "placeholder3": 0,
+         "heavy_water": 69,
          "liquid_ozone": 35,
          "strontium": 1,
          "oxygen": 0,
          "helium": 414,
          "hydrogen": 0,
-         "nitrogen": 0
+         "nitrogen": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "enriched clear icicle",
@@ -2940,7 +3192,9 @@
          "oxygen": 0,
          "helium": 483,
          "hydrogen": 0,
-         "nitrogen": 0
+         "nitrogen": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "dark_glitter": [
@@ -2948,16 +3202,18 @@
          "ore": "dark glitter",
          "typeID": 16267,
          "compressedID": 28435,
-         "heavy_water": 691,
          "placeholder1": 0,
          "placeholder2": 0,
          "placeholder3": 0,
+         "heavy_water": 691,
          "liquid_ozone": 1381,
          "strontium": 69,
          "oxygen": 0,
          "helium": 0,
          "hydrogen": 0,
-         "nitrogen": 0
+         "nitrogen": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "gelidus": [
@@ -2974,7 +3230,9 @@
          "oxygen": 0,
          "helium": 0,
          "hydrogen": 0,
-         "nitrogen": 0
+         "nitrogen": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "glacial_mass": [
@@ -2991,7 +3249,9 @@
          "oxygen": 0,
          "helium": 0,
          "hydrogen": 414,
-         "nitrogen": 0
+         "nitrogen": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "smooth glacial mass",
@@ -3006,7 +3266,9 @@
          "oxygen": 0,
          "helium": 0,
          "hydrogen": 483,
-         "nitrogen": 0
+         "nitrogen": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "glare_crust": [
@@ -3023,7 +3285,9 @@
          "oxygen": 0,
          "helium": 0,
          "hydrogen": 0,
-         "nitrogen": 0
+         "nitrogen": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "krystallos": [
@@ -3040,7 +3304,9 @@
          "oxygen": 0,
          "helium": 0,
          "hydrogen": 0,
-         "nitrogen": 0
+         "nitrogen": 0,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ],
    "white_glaze": [
@@ -3057,7 +3323,9 @@
          "oxygen": 0,
          "helium": 0,
          "hydrogen": 0,
-         "nitrogen": 414
+         "nitrogen": 414,
+         "askPrice": 0,
+         "bidPrice": 0
       },
       {
          "ore": "pristine white glaze",
@@ -3072,7 +3340,9 @@
          "oxygen": 0,
          "helium": 0,
          "hydrogen": 0,
-         "nitrogen": 483
+         "nitrogen": 483,
+         "askPrice": 0,
+         "bidPrice": 0
       }
    ]
 }
