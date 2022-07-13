@@ -4,7 +4,7 @@ import time
 import sys
 from colors import bcolors
 
-# All ores' mineral outputs are changed to reflect amount/m3 for value-comparison purposes in which ore to mine above others.
+
 def main():
     topColors = ['\033[38;2;143;8;8m','\033[38;2;157;67;0m','\033[38;2;151;114;0m','\033[38;2;121;158;0m',
                  '\033[38;2;0;200;0m','\033[38;2;0;255;255m']
