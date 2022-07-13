@@ -93,13 +93,13 @@ def printOrderedItems(finalList,vals):
         print("")
 
 
-def getRefinedPrice(mineralList, volume, data):
+def getRefinedPrice(mineralList, volume, oreData):
     total = 0
     for mineral, amount in mineralList:
         if volume < 1:
-            total += (data[mineral]['price'] * amount) * volume
+            total += ((oreData[mineral]['price'] / volume) * amount) * volume
         else:
-            total += (data[mineral]['price'] * amount) / volume
+            total += ((oreData[mineral]['price'] * volume) * amount) / volume
     return round(total,2)
 
 
