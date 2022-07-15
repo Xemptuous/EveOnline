@@ -19,14 +19,14 @@ def main():
         print_top = True
         sys.argv = sys.argv[1:]
 
-    with open("/home/user/Python/Projects/EveOrePrices/orePrices.json") as oreFile:
+    with open("orePrices.json") as oreFile:
         try:
             allOres = json.load(oreFile)
         except KeyError:
             print("Invalid selection. Input must be a valid Ice, Ore, or Moon Ore.")
             return
 
-    with open("/home/user/Python/Projects/EveOrePrices/mineralPrices.json") as mineralFile:
+    with open("mineralPrices.json") as mineralFile:
         allMinerals = json.load(mineralFile)
 
     finalList = []
@@ -105,7 +105,7 @@ def getRefinedPrice(mineralList, volume, oreData):
 
 def updateMineralPrices():
     start = time.time()
-    with open("/home/user/Python/Projects/EveOrePrices/mineralPrices.json") as mineralFile:
+    with open("mineralPrices.json") as mineralFile:
         allMinerals = json.load(mineralFile)
     sortedMinerals = sorted(list(allMinerals.keys()))
     count = 0
@@ -133,7 +133,7 @@ def updateMineralPrices():
 
         sys.stdout.flush()
 
-    with open("/home/user/Python/Projects/EveOrePrices/mineralPrices.json", 'w') as outfile:
+    with open("mineralPrices.json", 'w') as outfile:
         json.dump(allMinerals, outfile)
         end = time.time()
         time_elapsed = (end - start)
