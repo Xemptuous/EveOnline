@@ -1,7 +1,6 @@
 {
-  "arkonor": [
-    {
-      "ore": "arkonor",
+  "arkonor": {
+    "arkonor": {
       "typeID": 22,
       "compressedID": 62568,
       "batchCompressedID": 28367,
@@ -15,11 +14,10 @@
       "zydrine": 0,
       "megacyte": 0.075,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 2884.88,
+      "bidPrice": 2600.0
     },
-    {
-      "ore": "crimson arkonor",
+    "crimson arkonor": {
       "typeID": 17425,
       "compressedID": 62569,
       "batchCompressedID": 28385,
@@ -33,11 +31,10 @@
       "zydrine": 0,
       "megacyte": 0.079,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 3887.95,
+      "bidPrice": 2350.0
     },
-    {
-      "ore": "prime arkonor",
+    "prime arkonor": {
       "typeID": 17426,
       "compressedID": 62570,
       "batchCompressedID": 28387,
@@ -51,11 +48,10 @@
       "zydrine": 0,
       "megacyte": 0.083,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 3450.0,
+      "bidPrice": 2468.5
     },
-    {
-      "ore": "flawless arkonor",
+    "flawless arkonor": {
       "typeID": 46678,
       "compressedID": 62571,
       "batchCompressedID": 46691,
@@ -69,13 +65,12 @@
       "zydrine": 0,
       "megacyte": 0.086,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 5898.66,
+      "bidPrice": 1936.03
     }
-  ],
-  "bistot": [
-    {
-      "ore": "bistot",
+  },
+  "bistot": {
+    "bistot": {
       "typeID": 1223,
       "compressedID": 62564,
       "batchCompressedID": 28388,
@@ -89,11 +84,10 @@
       "zydrine": 0.1,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 3179.0,
+      "bidPrice": 2854.81
     },
-    {
-      "ore": "triclinic bistot",
+    "triclinic bistot": {
       "typeID": 17428,
       "compressedID": 62565,
       "batchCompressedID": 28390,
@@ -107,11 +101,10 @@
       "zydrine": 0.105,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 3216.0,
+      "bidPrice": 2843.0
     },
-    {
-      "ore": "monoclinic bistot",
+    "monoclinic bistot": {
       "typeID": 17429,
       "compressedID": 62566,
       "batchCompressedID": 28389,
@@ -125,11 +118,10 @@
       "zydrine": 0.11,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 3678.14,
+      "bidPrice": 2924.0
     },
-    {
-      "ore": "cubic bistot",
+    "cubic bistot": {
       "typeID": 46676,
       "compressedID": 62567,
       "batchCompressedID": 46692,
@@ -143,13 +135,12 @@
       "zydrine": 0.115,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 3897.67,
+      "bidPrice": 2351.0
     }
-  ],
-  "crokite": [
-    {
-      "ore": "crokite",
+  },
+  "crokite": {
+    "crokite": {
       "typeID": 1225,
       "compressedID": 62560,
       "batchCompressedID": 28391,
@@ -163,11 +154,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 7844.77,
+      "bidPrice": 7048.0
     },
-    {
-      "ore": "sharp crokite",
+    "sharp crokite": {
       "typeID": 17432,
       "compressedID": 62561,
       "batchCompressedID": 28393,
@@ -181,11 +171,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 8394.0,
+      "bidPrice": 7800.14
     },
-    {
-      "ore": "crystalline crokite",
+    "crystalline crokite": {
       "typeID": 17433,
       "compressedID": 62562,
       "batchCompressedID": 28392,
@@ -199,11 +188,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 8725.9,
+      "bidPrice": 7541.0
     },
-    {
-      "ore": "pellucid crokite",
+    "pellucid crokite": {
       "typeID": 46677,
       "compressedID": 62563,
       "batchCompressedID": 46693,
@@ -217,13 +205,12 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 14100.0,
+      "bidPrice": 6582.0
     }
-  ],
-  "dark ochre": [
-    {
-      "ore": "dark ochre",
+  },
+  "dark ochre": {
+    "dark ochre": {
       "typeID": 1232,
       "compressedID": 62556,
       "batchCompressedID": 28394,
@@ -237,11 +224,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 8000.0,
+      "bidPrice": 6584.0
     },
-    {
-      "ore": "onyx ochre",
+    "onyx ochre": {
       "typeID": 17436,
       "compressedID": 62557,
       "batchCompressedID": 28396,
@@ -255,11 +241,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 8400.0,
+      "bidPrice": 6907.0
     },
-    {
-      "ore": "obsidian ochre",
+    "obsidian ochre": {
       "typeID": 17437,
       "compressedID": 62558,
       "batchCompressedID": 28395,
@@ -273,11 +258,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 8299.94,
+      "bidPrice": 6050.0
     },
-    {
-      "ore": "jet ochre",
+    "jet ochre": {
       "typeID": 46675,
       "compressedID": 62559,
       "batchCompressedID": 46694,
@@ -291,13 +275,12 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 11999.44,
+      "bidPrice": 6001.0
     }
-  ],
-  "gneiss": [
-    {
-      "ore": "gneiss",
+  },
+  "gneiss": {
+    "gneiss": {
       "typeID": 1229,
       "compressedID": 62552,
       "batchCompressedID": 28397,
@@ -311,11 +294,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 3661.05,
+      "bidPrice": 3508.0
     },
-    {
-      "ore": "iridescent gneiss",
+    "iridescent gneiss": {
       "typeID": 17865,
       "compressedID": 62553,
       "batchCompressedID": 28398,
@@ -329,11 +311,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 4090.57,
+      "bidPrice": 3034.0
     },
-    {
-      "ore": "prismatic gneiss",
+    "prismatic gneiss": {
       "typeID": 17866,
       "compressedID": 62554,
       "batchCompressedID": 28399,
@@ -347,11 +328,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 4354.02,
+      "bidPrice": 3762.0
     },
-    {
-      "ore": "brilliant gneiss",
+    "brilliant gneiss": {
       "typeID": 46679,
       "compressedID": 62555,
       "batchCompressedID": 46695,
@@ -365,13 +345,12 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 99987.51,
+      "bidPrice": 3333.64
     }
-  ],
-  "hedbergite": [
-    {
-      "ore": "hedbergite",
+  },
+  "hedbergite": {
+    "hedbergite": {
       "typeID": 21,
       "compressedID": 62548,
       "batchCompressedID": 28401,
@@ -385,11 +364,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 1610.0,
+      "bidPrice": 900.0
     },
-    {
-      "ore": "vitric hedbergite",
+    "vitric hedbergite": {
       "typeID": 17440,
       "compressedID": 62549,
       "batchCompressedID": 28402,
@@ -403,11 +381,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 1480.0,
+      "bidPrice": 792.0
     },
-    {
-      "ore": "glazed hedbergite",
+    "glazed hedbergite": {
       "typeID": 17441,
       "compressedID": 62550,
       "batchCompressedID": 28400,
@@ -421,11 +398,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 1690.0,
+      "bidPrice": 1000.0
     },
-    {
-      "ore": "lustrous hedbergite",
+    "lustrous hedbergite": {
       "typeID": 46680,
       "compressedID": 62551,
       "batchCompressedID": 46696,
@@ -439,13 +415,12 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 1666.0,
+      "bidPrice": 108.1
     }
-  ],
-  "hemorphite": [
-    {
-      "ore": "hemorphite",
+  },
+  "hemorphite": {
+    "hemorphite": {
       "typeID": 1231,
       "compressedID": 62544,
       "batchCompressedID": 28403,
@@ -459,11 +434,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 1662.08,
+      "bidPrice": 1324.0
     },
-    {
-      "ore": "vivid hemorphite",
+    "vivid hemorphite": {
       "typeID": 17444,
       "compressedID": 62545,
       "batchCompressedID": 28405,
@@ -477,11 +451,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 1697.0,
+      "bidPrice": 1372.31
     },
-    {
-      "ore": "radiant hemorphite",
+    "radiant hemorphite": {
       "typeID": 17445,
       "compressedID": 62546,
       "batchCompressedID": 28404,
@@ -495,11 +468,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 1989.0,
+      "bidPrice": 1400.0
     },
-    {
-      "ore": "scintillating hemorphite",
+    "scintillating hemorphite": {
       "typeID": 46681,
       "compressedID": 62547,
       "batchCompressedID": 46697,
@@ -513,13 +485,12 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 2459.62,
+      "bidPrice": 21.31
     }
-  ],
-  "jaspet": [
-    {
-      "ore": "jaspet",
+  },
+  "jaspet": {
+    "jaspet": {
       "typeID": 1226,
       "compressedID": 62540,
       "batchCompressedID": 28406,
@@ -533,11 +504,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 647.96,
+      "bidPrice": 453.17
     },
-    {
-      "ore": "pure jaspet",
+    "pure jaspet": {
       "typeID": 17448,
       "compressedID": 62541,
       "batchCompressedID": 28408,
@@ -551,11 +521,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 799.88,
+      "bidPrice": 461.5
     },
-    {
-      "ore": "pristine jaspet",
+    "pristine jaspet": {
       "typeID": 17449,
       "compressedID": 62542,
       "batchCompressedID": 28407,
@@ -569,11 +538,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 697.7,
+      "bidPrice": 461.2
     },
-    {
-      "ore": "immaculate jaspet",
+    "immaculate jaspet": {
       "typeID": 46682,
       "compressedID": 62543,
       "batchCompressedID": 46698,
@@ -587,13 +555,12 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 2482.97,
+      "bidPrice": 110.3
     }
-  ],
-  "kernite": [
-    {
-      "ore": "kernite",
+  },
+  "kernite": {
+    "kernite": {
       "typeID": 20,
       "compressedID": 62536,
       "batchCompressedID": 28410,
@@ -607,11 +574,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 545.53,
+      "bidPrice": 392.84
     },
-    {
-      "ore": "luminous kernite",
+    "luminous kernite": {
       "typeID": 17452,
       "compressedID": 62537,
       "batchCompressedID": 28411,
@@ -625,11 +591,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 558.53,
+      "bidPrice": 392.4
     },
-    {
-      "ore": "fiery kernite",
+    "fiery kernite": {
       "typeID": 17453,
       "compressedID": 62538,
       "batchCompressedID": 28409,
@@ -643,11 +608,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 599.8,
+      "bidPrice": 461.08
     },
-    {
-      "ore": "resplendant kernite",
+    "resplendant kernite": {
       "typeID": 46683,
       "compressedID": 62539,
       "batchCompressedID": 46699,
@@ -661,13 +625,12 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 900.0,
+      "bidPrice": 133.5
     }
-  ],
-  "mercoxit": [
-    {
-      "ore": "mercoxit",
+  },
+  "mercoxit": {
+    "mercoxit": {
       "typeID": 11396,
       "compressedID": 62586,
       "batchCompressedID": 28413,
@@ -680,12 +643,11 @@
       "nocxium": 0,
       "zydrine": 0,
       "megacyte": 0,
-      "morphite": 0.014,
-      "askPrice": 0,
-      "bidPrice": 0
+      "morphite": 0.035,
+      "askPrice": 47975.85,
+      "bidPrice": 40200.0
     },
-    {
-      "ore": "magma mercoxit",
+    "magma mercoxit": {
       "typeID": 17869,
       "compressedID": 62587,
       "batchCompressedID": 28412,
@@ -698,12 +660,11 @@
       "nocxium": 0,
       "zydrine": 0,
       "megacyte": 0,
-      "morphite": 0.015,
-      "askPrice": 0,
-      "bidPrice": 0
+      "morphite": 0.037,
+      "askPrice": 49987.04,
+      "bidPrice": 31340.0
     },
-    {
-      "ore": "vitreous mercoxit",
+    "vitreous mercoxit": {
       "typeID": 17870,
       "compressedID": 62588,
       "batchCompressedID": 28414,
@@ -716,14 +677,13 @@
       "nocxium": 0,
       "zydrine": 0,
       "megacyte": 0,
-      "morphite": 0.016,
-      "askPrice": 0,
-      "bidPrice": 0
+      "morphite": 0.039,
+      "askPrice": 55026.15,
+      "bidPrice": 50210.38
     }
-  ],
-  "omber": [
-    {
-      "ore": "omber",
+  },
+  "omber": {
+    "omber": {
       "typeID": 1227,
       "compressedID": 62532,
       "batchCompressedID": 28416,
@@ -737,11 +697,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 391.98,
+      "bidPrice": 241.6
     },
-    {
-      "ore": "silvery omber",
+    "silvery omber": {
       "typeID": 17867,
       "compressedID": 62533,
       "batchCompressedID": 28417,
@@ -755,11 +714,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 552.39,
+      "bidPrice": 258.0
     },
-    {
-      "ore": "golden omber",
+    "golden omber": {
       "typeID": 17868,
       "compressedID": 62534,
       "batchCompressedID": 28415,
@@ -773,11 +731,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 428.8,
+      "bidPrice": 260.2
     },
-    {
-      "ore": "platinoid omber",
+    "platinoid omber": {
       "typeID": 46684,
       "compressedID": 62535,
       "batchCompressedID": 46700,
@@ -791,13 +748,12 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 121200.0,
+      "bidPrice": 107.91
     }
-  ],
-  "plagioclase": [
-    {
-      "ore": "plagioclase",
+  },
+  "plagioclase": {
+    "plagioclase": {
       "typeID": 18,
       "compressedID": 62528,
       "batchCompressedID": 28422,
@@ -811,11 +767,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 42.43,
+      "bidPrice": 36.11
     },
-    {
-      "ore": "azure plagioclase",
+    "azure plagioclase": {
       "typeID": 17455,
       "compressedID": 62529,
       "batchCompressedID": 28421,
@@ -829,11 +784,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 41.47,
+      "bidPrice": 37.17
     },
-    {
-      "ore": "rich plagioclase",
+    "rich plagioclase": {
       "typeID": 17456,
       "compressedID": 62530,
       "batchCompressedID": 28423,
@@ -847,11 +801,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 44.73,
+      "bidPrice": 38.32
     },
-    {
-      "ore": "sparkling plagioclase",
+    "sparkling plagioclase": {
       "typeID": 46685,
       "compressedID": 62531,
       "batchCompressedID": 46701,
@@ -865,13 +818,12 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 70.57,
+      "bidPrice": 63.99
     }
-  ],
-  "pyroxeres": [
-    {
-      "ore": "pyroxeres",
+  },
+  "pyroxeres": {
+    "pyroxeres": {
       "typeID": 1224,
       "compressedID": 62524,
       "batchCompressedID": 28424,
@@ -885,11 +837,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 32.8,
+      "bidPrice": 30.51
     },
-    {
-      "ore": "solid pyroxeres",
+    "solid pyroxeres": {
       "typeID": 17459,
       "compressedID": 62525,
       "batchCompressedID": 28425,
@@ -903,11 +854,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 30.58,
+      "bidPrice": 26.71
     },
-    {
-      "ore": "viscous pyroxeres",
+    "viscous pyroxeres": {
       "typeID": 17460,
       "compressedID": 62526,
       "batchCompressedID": 28426,
@@ -921,11 +871,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 38.62,
+      "bidPrice": 29.54
     },
-    {
-      "ore": "opulent pyroxeres",
+    "opulent pyroxeres": {
       "typeID": 46686,
       "compressedID": 62527,
       "batchCompressedID": 46702,
@@ -939,13 +888,12 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 1850.0,
+      "bidPrice": 50.02
     }
-  ],
-  "scordite": [
-    {
-      "ore": "scordite",
+  },
+  "scordite": {
+    "scordite": {
       "typeID": 1228,
       "compressedID": 62520,
       "batchCompressedID": 28429,
@@ -959,11 +907,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 18.26,
+      "bidPrice": 14.06
     },
-    {
-      "ore": "condensed scordite",
+    "condensed scordite": {
       "typeID": 17463,
       "compressedID": 62521,
       "batchCompressedID": 28427,
@@ -977,11 +924,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 19.76,
+      "bidPrice": 13.79
     },
-    {
-      "ore": "massive scordite",
+    "massive scordite": {
       "typeID": 17464,
       "compressedID": 62522,
       "batchCompressedID": 28428,
@@ -995,11 +941,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 19.78,
+      "bidPrice": 14.93
     },
-    {
-      "ore": "glossy scordite",
+    "glossy scordite": {
       "typeID": 46687,
       "compressedID": 62523,
       "batchCompressedID": 46703,
@@ -1013,13 +958,12 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 4799.0,
+      "bidPrice": 14.0
     }
-  ],
-  "spodumain": [
-    {
-      "ore": "spodumain",
+  },
+  "spodumain": {
+    "spodumain": {
       "typeID": 19,
       "compressedID": 62572,
       "batchCompressedID": 28420,
@@ -1033,11 +977,10 @@
       "zydrine": 0.05,
       "megacyte": 0.025,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 25600.0,
+      "bidPrice": 5895.01
     },
-    {
-      "ore": "bright spodumain",
+    "bright spodumain": {
       "typeID": 17466,
       "compressedID": 62573,
       "batchCompressedID": 28418,
@@ -1051,11 +994,10 @@
       "zydrine": 0.053,
       "megacyte": 0.026,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 38500.0,
+      "bidPrice": 20020.0
     },
-    {
-      "ore": "gleaming spodumain",
+    "gleaming spodumain": {
       "typeID": 17467,
       "compressedID": 62574,
       "batchCompressedID": 28419,
@@ -1069,11 +1011,10 @@
       "zydrine": 0.055,
       "megacyte": 0.028,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 59000.0,
+      "bidPrice": 20740.0
     },
-    {
-      "ore": "dazzling spodumain",
+    "dazzling spodumain": {
       "typeID": 46688,
       "compressedID": 62575,
       "batchCompressedID": 46704,
@@ -1087,13 +1028,12 @@
       "zydrine": 0.057,
       "megacyte": 0.029,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 73750.0,
+      "bidPrice": 7573.0
     }
-  ],
-  "veldspar": [
-    {
-      "ore": "veldspar",
+  },
+  "veldspar": {
+    "veldspar": {
       "typeID": 1230,
       "compressedID": 62516,
       "batchCompressedID": 28432,
@@ -1107,11 +1047,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 11.43,
+      "bidPrice": 9.71
     },
-    {
-      "ore": "concentrated veldspar",
+    "concentrated veldspar": {
       "typeID": 17470,
       "compressedID": 62517,
       "batchCompressedID": 28430,
@@ -1125,11 +1064,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 12.26,
+      "bidPrice": 10.09
     },
-    {
-      "ore": "dense veldspar",
+    "dense veldspar": {
       "typeID": 17471,
       "compressedID": 62518,
       "batchCompressedID": 28431,
@@ -1143,11 +1081,10 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 12.82,
+      "bidPrice": 11.12
     },
-    {
-      "ore": "stable veldspar",
+    "stable veldspar": {
       "typeID": 46689,
       "compressedID": 62519,
       "batchCompressedID": 46705,
@@ -1161,13 +1098,12 @@
       "zydrine": 0,
       "megacyte": 0,
       "morphite": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 49.81,
+      "bidPrice": 1.22
     }
-  ],
-  "bitumens": [
-    {
-      "ore": "bitumens",
+  },
+  "bitumens": {
+    "bitumens": {
       "typeID": 45492,
       "compressedID": 62454,
       "volume": 10,
@@ -1195,11 +1131,10 @@
       "thulium": 0,
       "pyerite": 6,
       "mexallon": 4,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 1299.0,
+      "bidPrice": 952.41
     },
-    {
-      "ore": "brimful bitumens",
+    "brimful bitumens": {
       "typeID": 46284,
       "compressedID": 62455,
       "volume": 10,
@@ -1227,15 +1162,14 @@
       "thulium": 0,
       "pyerite": 6.9,
       "mexallon": 0.46,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 1596.44,
+      "bidPrice": 1018.09
     },
-    {
-      "ore": "glistening bitumens",
+    "glistening bitumens": {
       "typeID": 46285,
       "compressedID": 62458,
       "volume": 10,
-      "bonus": 0.01,
+      "bonus": 1,
       "placeholder": 0,
       "hydrocarbons": 0.13,
       "atmospheric_gases": 0,
@@ -1258,14 +1192,13 @@
       "dysprosium": 0,
       "thulium": 0,
       "pyerite": 12,
-      "mexallon": 0.80,
-      "askPrice": 0,
-      "bidPrice": 0
+      "mexallon": 0.8,
+      "askPrice": 1667.0,
+      "bidPrice": 1183.0
     }
-  ],
-  "carnotite": [
-    {
-      "ore": "carnotite",
+  },
+  "carnotite": {
+    "carnotite": {
       "typeID": 45502,
       "compressedID": 62492,
       "volume": 10,
@@ -1293,11 +1226,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 48000.0,
+      "bidPrice": 64.45
     },
-    {
-      "ore": "replete carnotite",
+    "replete carnotite": {
       "typeID": 46304,
       "compressedID": 62493,
       "volume": 10,
@@ -1326,10 +1258,9 @@
       "pyerite": 0,
       "mexallon": 0,
       "askPrice": 0,
-      "bidPrice": 0
+      "bidPrice": 62.91
     },
-    {
-      "ore": "glowing carnotite",
+    "glowing carnotite": {
       "typeID": 46305,
       "compressedID": 62494,
       "volume": 10,
@@ -1358,12 +1289,11 @@
       "pyerite": 0,
       "mexallon": 0,
       "askPrice": 0,
-      "bidPrice": 0
+      "bidPrice": 63.29
     }
-  ],
-  "chromite": [
-    {
-      "ore": "chromite",
+  },
+  "chromite": {
+    "chromite": {
       "typeID": 45501,
       "compressedID": 62480,
       "volume": 10,
@@ -1391,11 +1321,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 6400.0,
+      "bidPrice": 350.1
     },
-    {
-      "ore": "lavish chromite",
+    "lavish chromite": {
       "typeID": 46302,
       "compressedID": 62481,
       "volume": 10,
@@ -1423,11 +1352,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 36600.0,
+      "bidPrice": 368.14
     },
-    {
-      "ore": "shimmering chromite",
+    "shimmering chromite": {
       "typeID": 46303,
       "compressedID": 62482,
       "volume": 10,
@@ -1455,13 +1383,12 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 15000.0,
+      "bidPrice": 71.95
     }
-  ],
-  "cinnabar": [
-    {
-      "ore": "cinnabar",
+  },
+  "cinnabar": {
+    "cinnabar": {
       "typeID": 45506,
       "compressedID": 62495,
       "volume": 10,
@@ -1489,11 +1416,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 3500.0,
+      "bidPrice": 82.3
     },
-    {
-      "ore": "replete cinnabar",
+    "replete cinnabar": {
       "typeID": 46310,
       "compressedID": 62496,
       "volume": 10,
@@ -1522,10 +1448,9 @@
       "pyerite": 0,
       "mexallon": 0,
       "askPrice": 0,
-      "bidPrice": 0
+      "bidPrice": 63.49
     },
-    {
-      "ore": "glowing cinnabar",
+    "glowing cinnabar": {
       "typeID": 46311,
       "compressedID": 62497,
       "volume": 10,
@@ -1554,12 +1479,11 @@
       "pyerite": 0,
       "mexallon": 0,
       "askPrice": 0,
-      "bidPrice": 0
+      "bidPrice": 139.7
     }
-  ],
-  "cobaltite": [
-    {
-      "ore": "cobaltite",
+  },
+  "cobaltite": {
+    "cobaltite": {
       "typeID": 45494,
       "compressedID": 62474,
       "volume": 10,
@@ -1587,11 +1511,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 2000.0,
+      "bidPrice": 21.25
     },
-    {
-      "ore": "copious cobaltite",
+    "copious cobaltite": {
       "typeID": 46288,
       "compressedID": 62475,
       "volume": 10,
@@ -1619,11 +1542,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 2000.0,
+      "bidPrice": 258.6
     },
-    {
-      "ore": "twinkling cobaltite",
+    "twinkling cobaltite": {
       "typeID": 46289,
       "compressedID": 62476,
       "volume": 10,
@@ -1651,13 +1573,12 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 2000.0,
+      "bidPrice": 61.82
     }
-  ],
-  "coesite": [
-    {
-      "ore": "coesite",
+  },
+  "coesite": {
+    "coesite": {
       "typeID": 45493,
       "compressedID": 62457,
       "volume": 10,
@@ -1685,11 +1606,10 @@
       "thulium": 0,
       "pyerite": 2,
       "mexallon": 0.4,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 1393.0,
+      "bidPrice": 906.71
     },
-    {
-      "ore": "brimful coesite",
+    "brimful coesite": {
       "typeID": 46286,
       "compressedID": 62458,
       "volume": 10,
@@ -1717,11 +1637,10 @@
       "thulium": 0,
       "pyerite": 2.3,
       "mexallon": 0.46,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 1667.0,
+      "bidPrice": 1183.0
     },
-    {
-      "ore": "glistening coesite",
+    "glistening coesite": {
       "typeID": 46287,
       "compressedID": 62459,
       "volume": 10,
@@ -1748,14 +1667,13 @@
       "dysprosium": 0,
       "thulium": 0,
       "pyerite": 4,
-      "mexallon": 0.80,
-      "askPrice": 0,
-      "bidPrice": 0
+      "mexallon": 0.8,
+      "askPrice": 3000.0,
+      "bidPrice": 1930.0
     }
-  ],
-  "euxenite": [
-    {
-      "ore": "euxenite",
+  },
+  "euxenite": {
+    "euxenite": {
       "typeID": 45495,
       "compressedID": 62471,
       "volume": 10,
@@ -1783,11 +1701,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 999523.81,
+      "bidPrice": 1489.0
     },
-    {
-      "ore": "copious euxenite",
+    "copious euxenite": {
       "typeID": 46290,
       "compressedID": 62472,
       "volume": 10,
@@ -1815,11 +1732,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 1501.0,
+      "bidPrice": 110.7
     },
-    {
-      "ore": "twinkling euxenite",
+    "twinkling euxenite": {
       "typeID": 46291,
       "compressedID": 62473,
       "volume": 10,
@@ -1847,13 +1763,12 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 10000.0,
+      "bidPrice": 1650.0
     }
-  ],
-  "loparite": [
-    {
-      "ore": "loparite",
+  },
+  "loparite": {
+    "loparite": {
       "typeID": 45512,
       "compressedID": 62504,
       "volume": 10,
@@ -1881,11 +1796,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 300000.0,
+      "bidPrice": 1158.0
     },
-    {
-      "ore": "bountiful loparite",
+    "bountiful loparite": {
       "typeID": 46316,
       "compressedID": 62505,
       "volume": 10,
@@ -1913,11 +1827,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 374000.0,
+      "bidPrice": 4101.0
     },
-    {
-      "ore": "shining loparite",
+    "shining loparite": {
       "typeID": 46317,
       "compressedID": 62506,
       "volume": 10,
@@ -1946,12 +1859,11 @@
       "pyerite": 0,
       "mexallon": 0,
       "askPrice": 0,
-      "bidPrice": 0
+      "bidPrice": 120.6
     }
-  ],
-  "monazite": [
-    {
-      "ore": "monazite",
+  },
+  "monazite": {
+    "monazite": {
       "typeID": 45511,
       "compressedID": 62507,
       "volume": 10,
@@ -1979,11 +1891,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 15000.0,
+      "bidPrice": 2601.0
     },
-    {
-      "ore": "bountiful monazite",
+    "bountiful monazite": {
       "typeID": 46314,
       "compressedID": 62508,
       "volume": 10,
@@ -2011,11 +1922,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 13000.0,
+      "bidPrice": 5101.0
     },
-    {
-      "ore": "shining monazite",
+    "shining monazite": {
       "typeID": 46315,
       "compressedID": 62509,
       "volume": 10,
@@ -2044,12 +1954,11 @@
       "pyerite": 0,
       "mexallon": 0,
       "askPrice": 0,
-      "bidPrice": 0
+      "bidPrice": 236.4
     }
-  ],
-  "otavite": [
-    {
-      "ore": "otavite",
+  },
+  "otavite": {
+    "otavite": {
       "typeID": 45498,
       "compressedID": 62483,
       "volume": 10,
@@ -2077,11 +1986,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 8000.0,
+      "bidPrice": 82.3
     },
-    {
-      "ore": "lavish otavite",
+    "lavish otavite": {
       "typeID": 46296,
       "compressedID": 62484,
       "volume": 10,
@@ -2109,11 +2017,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 3740.0,
+      "bidPrice": 115.91
     },
-    {
-      "ore": "shimmering otavite",
+    "shimmering otavite": {
       "typeID": 46297,
       "compressedID": 62485,
       "volume": 10,
@@ -2142,12 +2049,11 @@
       "pyerite": 0,
       "mexallon": 0,
       "askPrice": 0,
-      "bidPrice": 0
+      "bidPrice": 76.89
     }
-  ],
-  "pollucite": [
-    {
-      "ore": "pollucite",
+  },
+  "pollucite": {
+    "pollucite": {
       "typeID": 45504,
       "compressedID": 62498,
       "volume": 10,
@@ -2175,11 +2081,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 37500.0,
+      "bidPrice": 1751.0
     },
-    {
-      "ore": "replete pollucite",
+    "replete pollucite": {
       "typeID": 46308,
       "compressedID": 62499,
       "volume": 10,
@@ -2207,11 +2112,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 35000.0,
+      "bidPrice": 67.14
     },
-    {
-      "ore": "glowing pollucite",
+    "glowing pollucite": {
       "typeID": 46309,
       "compressedID": 62500,
       "volume": 10,
@@ -2240,12 +2144,11 @@
       "pyerite": 0,
       "mexallon": 0,
       "askPrice": 0,
-      "bidPrice": 0
+      "bidPrice": 141.1
     }
-  ],
-  "scheelite": [
-    {
-      "ore": "scheelite",
+  },
+  "scheelite": {
+    "scheelite": {
       "typeID": 45497,
       "compressedID": 62468,
       "volume": 10,
@@ -2274,10 +2177,9 @@
       "pyerite": 0,
       "mexallon": 0,
       "askPrice": 0,
-      "bidPrice": 0
+      "bidPrice": 110.6
     },
-    {
-      "ore": "copious scheelite",
+    "copious scheelite": {
       "typeID": 46294,
       "compressedID": 62469,
       "volume": 10,
@@ -2305,11 +2207,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 300000.0,
+      "bidPrice": 250.1
     },
-    {
-      "ore": "twinkling scheelite",
+    "twinkling scheelite": {
       "typeID": 46295,
       "compressedID": 62470,
       "volume": 10,
@@ -2338,12 +2239,11 @@
       "pyerite": 0,
       "mexallon": 0,
       "askPrice": 0,
-      "bidPrice": 0
+      "bidPrice": 61.76
     }
-  ],
-  "sperrylite": [
-    {
-      "ore": "sperrylite",
+  },
+  "sperrylite": {
+    "sperrylite": {
       "typeID": 45499,
       "compressedID": 62486,
       "volume": 10,
@@ -2371,11 +2271,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 4490.0,
+      "bidPrice": 611.31
     },
-    {
-      "ore": "lavish sperrylite",
+    "lavish sperrylite": {
       "typeID": 46298,
       "compressedID": 62487,
       "volume": 10,
@@ -2403,11 +2302,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 3498.99,
+      "bidPrice": 678.12
     },
-    {
-      "ore": "shimmering sperrylite",
+    "shimmering sperrylite": {
       "typeID": 46299,
       "compressedID": 62488,
       "volume": 10,
@@ -2436,12 +2334,11 @@
       "pyerite": 0,
       "mexallon": 0,
       "askPrice": 0,
-      "bidPrice": 0
+      "bidPrice": 71.06
     }
-  ],
-  "sylvite": [
-    {
-      "ore": "sylvite",
+  },
+  "sylvite": {
+    "sylvite": {
       "typeID": 45491,
       "compressedID": 62460,
       "volume": 10,
@@ -2468,12 +2365,11 @@
       "dysprosium": 0,
       "thulium": 0,
       "pyerite": 4,
-      "mexallon": 0.40,
-      "askPrice": 0,
-      "bidPrice": 0
+      "mexallon": 0.4,
+      "askPrice": 1235.0,
+      "bidPrice": 904.4
     },
-    {
-      "ore": "brimful sylvite",
+    "brimful sylvite": {
       "typeID": 46282,
       "compressedID": 62461,
       "volume": 10,
@@ -2501,11 +2397,10 @@
       "thulium": 0,
       "pyerite": 4.6,
       "mexallon": 0.46,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 1493.0,
+      "bidPrice": 1240.0
     },
-    {
-      "ore": "glistening sylvite",
+    "glistening sylvite": {
       "typeID": 46283,
       "compressedID": 62462,
       "volume": 10,
@@ -2532,14 +2427,13 @@
       "dysprosium": 0,
       "thulium": 0,
       "pyerite": 8,
-      "mexallon": 0.80,
-      "askPrice": 0,
-      "bidPrice": 0
+      "mexallon": 0.8,
+      "askPrice": 2190.75,
+      "bidPrice": 970.4
     }
-  ],
-  "titanite": [
-    {
-      "ore": "titanite",
+  },
+  "titanite": {
+    "titanite": {
       "typeID": 45496,
       "compressedID": 62477,
       "volume": 10,
@@ -2568,10 +2462,9 @@
       "pyerite": 0,
       "mexallon": 0,
       "askPrice": 0,
-      "bidPrice": 0
+      "bidPrice": 23.72
     },
-    {
-      "ore": "copious titanite",
+    "copious titanite": {
       "typeID": 46292,
       "compressedID": 62478,
       "volume": 10,
@@ -2599,11 +2492,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 2998.0,
+      "bidPrice": 250.1
     },
-    {
-      "ore": "twinkling titanite",
+    "twinkling titanite": {
       "typeID": 46293,
       "compressedID": 62479,
       "volume": 10,
@@ -2631,13 +2523,12 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 3000.0,
+      "bidPrice": 50.41
     }
-  ],
-  "vanadinite": [
-    {
-      "ore": "vanadinite",
+  },
+  "vanadinite": {
+    "vanadinite": {
       "typeID": 45500,
       "compressedID": 62489,
       "volume": 10,
@@ -2665,11 +2556,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 150000.0,
+      "bidPrice": 47.12
     },
-    {
-      "ore": "lavish vanadinite",
+    "lavish vanadinite": {
       "typeID": 46300,
       "compressedID": 62490,
       "volume": 10,
@@ -2697,11 +2587,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 798.8,
+      "bidPrice": 22.04
     },
-    {
-      "ore": "shimmering vanadinite",
+    "shimmering vanadinite": {
       "typeID": 46301,
       "compressedID": 62491,
       "volume": 10,
@@ -2730,12 +2619,11 @@
       "pyerite": 0,
       "mexallon": 0,
       "askPrice": 0,
-      "bidPrice": 0
+      "bidPrice": 73.15
     }
-  ],
-  "xenotime": [
-    {
-      "ore": "xenotime",
+  },
+  "xenotime": {
+    "xenotime": {
       "typeID": 45510,
       "compressedID": 62510,
       "volume": 10,
@@ -2763,11 +2651,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 8800.0,
+      "bidPrice": 1536.0
     },
-    {
-      "ore": "bountiful xenotime",
+    "bountiful xenotime": {
       "typeID": 46312,
       "compressedID": 62511,
       "volume": 10,
@@ -2795,11 +2682,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 99000.0,
+      "bidPrice": 7101.0
     },
-    {
-      "ore": "shining xenotime",
+    "shining xenotime": {
       "typeID": 46313,
       "compressedID": 62512,
       "volume": 10,
@@ -2827,13 +2713,12 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 45000.0,
+      "bidPrice": 1101.0
     }
-  ],
-  "ytterbite": [
-    {
-      "ore": "ytterbite",
+  },
+  "ytterbite": {
+    "ytterbite": {
       "typeID": 45513,
       "compressedID": 62513,
       "volume": 10,
@@ -2861,11 +2746,10 @@
       "thulium": 0.022,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 6249.0,
+      "bidPrice": 2201.0
     },
-    {
-      "ore": "bountiful ytterbite",
+    "bountiful ytterbite": {
       "typeID": 46318,
       "compressedID": 62514,
       "volume": 10,
@@ -2893,11 +2777,10 @@
       "thulium": 0.025,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 7000.0,
+      "bidPrice": 1622.0
     },
-    {
-      "ore": "shining ytterbite",
+    "shining ytterbite": {
       "typeID": 46319,
       "compressedID": 62515,
       "volume": 10,
@@ -2926,12 +2809,11 @@
       "pyerite": 0,
       "mexallon": 0,
       "askPrice": 0,
-      "bidPrice": 0
+      "bidPrice": 221.35
     }
-  ],
-  "zeolites": [
-    {
-      "ore": "zeolites",
+  },
+  "zeolites": {
+    "zeolites": {
       "typeID": 45490,
       "compressedID": 62463,
       "volume": 10,
@@ -2959,11 +2841,10 @@
       "thulium": 0,
       "pyerite": 8,
       "mexallon": 0.4,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 1397.44,
+      "bidPrice": 1007.0
     },
-    {
-      "ore": "brimful zeolites",
+    "brimful zeolites": {
       "typeID": 46280,
       "compressedID": 62464,
       "volume": 10,
@@ -2991,11 +2872,10 @@
       "thulium": 0,
       "pyerite": 9.2,
       "mexallon": 0.46,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 1450.0,
+      "bidPrice": 1202.0
     },
-    {
-      "ore": "glistening zeolites",
+    "glistening zeolites": {
       "typeID": 46281,
       "compressedID": 62465,
       "volume": 10,
@@ -3022,14 +2902,13 @@
       "dysprosium": 0,
       "thulium": 0,
       "pyerite": 16,
-      "mexallon": 0.80,
-      "askPrice": 0,
-      "bidPrice": 0
+      "mexallon": 0.8,
+      "askPrice": 2250.0,
+      "bidPrice": 1017.0
     }
-  ],
-  "zircon": [
-    {
-      "ore": "zircon",
+  },
+  "zircon": {
+    "zircon": {
       "typeID": 45503,
       "compressedID": 62501,
       "volume": 10,
@@ -3057,11 +2936,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 7350.0,
+      "bidPrice": 3127.0
     },
-    {
-      "ore": "replete zircon",
+    "replete zircon": {
       "typeID": 46306,
       "compressedID": 62502,
       "volume": 10,
@@ -3089,11 +2967,10 @@
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 7300.0,
+      "bidPrice": 62.94
     },
-    {
-      "ore": "glowing zircon",
+    "glowing zircon": {
       "typeID": 46307,
       "compressedID": 62503,
       "volume": 10,
@@ -3114,25 +2991,24 @@
       "technetium": 0,
       "mercury": 0,
       "caesium": 0,
-      "hafnium": 0.10,
+      "hafnium": 0.1,
       "promethium": 0,
       "neodymium": 0,
       "dysprosium": 0,
       "thulium": 0,
       "pyerite": 0,
       "mexallon": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 15000.0,
+      "bidPrice": 141.4
     }
-  ],
-  "blue_ice": [
-    {
-      "ore": "blue ice",
+  },
+  "blue_ice": {
+    "blue ice": {
+      "volume": 1,
+      "bonus": 0,
       "typeID": 16264,
       "compressedID": 28433,
       "placeholder1": 0,
-      "placeholder2": 0,
-      "placeholder3": 0,
       "heavy_water": 69,
       "liquid_ozone": 35,
       "strontium": 1,
@@ -3140,16 +3016,15 @@
       "helium": 0,
       "hydrogen": 0,
       "nitrogen": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 143993.44,
+      "bidPrice": 129000.0
     },
-    {
-      "ore": "thick blue ice",
+    "thick blue ice": {
+      "volume": 1,
+      "bonus": 0,
       "typeID": 17975,
       "compressedID": 28443,
       "placeholder1": 0,
-      "placeholder2": 0,
-      "placeholder3": 0,
       "heavy_water": 104,
       "liquid_ozone": 55,
       "strontium": 1,
@@ -3157,18 +3032,17 @@
       "helium": 0,
       "hydrogen": 0,
       "nitrogen": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 170000.0,
+      "bidPrice": 153000.0
     }
-  ],
-  "clear_icicle": [
-    {
-      "ore": "clear icicle",
+  },
+  "clear_icicle": {
+    "clear icicle": {
+      "volume": 1,
+      "bonus": 0,
       "typeID": 16262,
       "compressedID": 28434,
       "placeholder1": 0,
-      "placeholder2": 0,
-      "placeholder3": 0,
       "heavy_water": 69,
       "liquid_ozone": 35,
       "strontium": 1,
@@ -3176,16 +3050,15 @@
       "helium": 414,
       "hydrogen": 0,
       "nitrogen": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 157500.0,
+      "bidPrice": 146700.0
     },
-    {
-      "ore": "enriched clear icicle",
+    "enriched clear icicle": {
+      "volume": 1,
+      "bonus": 0,
       "typeID": 17978,
       "compressedID": 28436,
       "placeholder1": 0,
-      "placeholder2": 0,
-      "placeholder3": 0,
       "heavy_water": 104,
       "liquid_ozone": 55,
       "strontium": 1,
@@ -3193,18 +3066,17 @@
       "helium": 483,
       "hydrogen": 0,
       "nitrogen": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 234793.7,
+      "bidPrice": 173000.0
     }
-  ],
-  "dark_glitter": [
-    {
-      "ore": "dark glitter",
+  },
+  "dark_glitter": {
+    "dark glitter": {
+      "volume": 1,
+      "bonus": 0,
       "typeID": 16267,
       "compressedID": 28435,
       "placeholder1": 0,
-      "placeholder2": 0,
-      "placeholder3": 0,
       "heavy_water": 691,
       "liquid_ozone": 1381,
       "strontium": 69,
@@ -3212,18 +3084,17 @@
       "helium": 0,
       "hydrogen": 0,
       "nitrogen": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 296600.0,
+      "bidPrice": 220100.0
     }
-  ],
-  "gelidus": [
-    {
-      "ore": "gelidus",
+  },
+  "gelidus": {
+    "gelidus": {
+      "volume": 1,
+      "bonus": 0,
       "typeID": 16268,
       "compressedID": 28437,
       "placeholder1": 0,
-      "placeholder2": 0,
-      "placeholder3": 0,
       "heavy_water": 345,
       "liquid_ozone": 691,
       "strontium": 104,
@@ -3231,18 +3102,17 @@
       "helium": 0,
       "hydrogen": 0,
       "nitrogen": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 350000.0,
+      "bidPrice": 190000.0
     }
-  ],
-  "glacial_mass": [
-    {
-      "ore": "glacial mass",
+  },
+  "glacial_mass": {
+    "glacial mass": {
+      "volume": 1,
+      "bonus": 0,
       "typeID": 16263,
       "compressedID": 28438,
       "placeholder1": 0,
-      "placeholder2": 0,
-      "placeholder3": 0,
       "heavy_water": 69,
       "liquid_ozone": 35,
       "strontium": 1,
@@ -3250,16 +3120,15 @@
       "helium": 0,
       "hydrogen": 414,
       "nitrogen": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 132200.0,
+      "bidPrice": 128000.0
     },
-    {
-      "ore": "smooth glacial mass",
+    "smooth glacial mass": {
+      "volume": 1,
+      "bonus": 0,
       "typeID": 17977,
       "compressedID": 28442,
       "placeholder1": 0,
-      "placeholder2": 0,
-      "placeholder3": 0,
       "heavy_water": 104,
       "liquid_ozone": 55,
       "strontium": 1,
@@ -3267,18 +3136,17 @@
       "helium": 0,
       "hydrogen": 483,
       "nitrogen": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 237800.0,
+      "bidPrice": 163000.0
     }
-  ],
-  "glare_crust": [
-    {
-      "ore": "glare crust",
+  },
+  "glare_crust": {
+    "glare crust": {
+      "volume": 1,
+      "bonus": 0,
       "typeID": 16266,
       "compressedID": 28439,
       "placeholder1": 0,
-      "placeholder2": 0,
-      "placeholder3": 0,
       "heavy_water": 1381,
       "liquid_ozone": 691,
       "strontium": 35,
@@ -3286,18 +3154,17 @@
       "helium": 0,
       "hydrogen": 0,
       "nitrogen": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 231100.0,
+      "bidPrice": 185000.0
     }
-  ],
-  "krystallos": [
-    {
-      "ore": "krystallos",
+  },
+  "krystallos": {
+    "krystallos": {
+      "volume": 1,
+      "bonus": 0,
       "typeID": 16269,
       "compressedID": 28440,
       "placeholder1": 0,
-      "placeholder2": 0,
-      "placeholder3": 0,
       "heavy_water": 173,
       "liquid_ozone": 691,
       "strontium": 173,
@@ -3305,18 +3172,17 @@
       "helium": 0,
       "hydrogen": 0,
       "nitrogen": 0,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 456900.0,
+      "bidPrice": 300200.0
     }
-  ],
-  "white_glaze": [
-    {
-      "ore": "white glaze",
+  },
+  "white_glaze": {
+    "white glaze": {
+      "volume": 1,
+      "bonus": 0,
       "typeID": 16265,
       "compressedID": 28444,
       "placeholder1": 0,
-      "placeholder2": 0,
-      "placeholder3": 0,
       "heavy_water": 69,
       "liquid_ozone": 35,
       "strontium": 1,
@@ -3324,16 +3190,15 @@
       "helium": 0,
       "hydrogen": 0,
       "nitrogen": 414,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 132687.73,
+      "bidPrice": 125400.0
     },
-    {
-      "ore": "pristine white glaze",
+    "pristine white glaze": {
+      "volume": 1,
+      "bonus": 0,
       "typeID": 17976,
       "compressedID": 28441,
       "placeholder1": 0,
-      "placeholder2": 0,
-      "placeholder3": 0,
       "heavy_water": 104,
       "liquid_ozone": 55,
       "strontium": 1,
@@ -3341,8 +3206,8 @@
       "helium": 0,
       "hydrogen": 0,
       "nitrogen": 483,
-      "askPrice": 0,
-      "bidPrice": 0
+      "askPrice": 194975.38,
+      "bidPrice": 173800.0
     }
-  ]
+  }
 }
