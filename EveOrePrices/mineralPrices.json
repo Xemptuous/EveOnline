@@ -1,142 +1,177 @@
 {
-   "atmospheric_gases": {
-      "typeID": 16634,
-      "price": 0
-   },
-   "cadmium": {
-      "typeID": 16643,
-      "price": 0
-   },
-   "caesium": {
-      "typeID": 16647,
-      "price": 0
-   },
-   "chromium": {
-      "typeID": 16641,
-      "price": 0
-   },
-   "cobalt": {
-      "typeID": 16640,
-      "price": 0
-   },
-   "dysprosium": {
-      "typeID": 16650,
-      "price": 0
-   },
-   "evaporite_deposits": {
-      "typeID": 16635,
-      "price": 0
-   },
-   "hafnium": {
-      "typeID": 16648,
-      "price": 0
-   },
-   "heavy_water": {
-      "typeID": 16272,
-      "price": 0
-   },
-   "helium": {
-      "typeID": 16274,
-      "price": 0
-   },
-   "hydrocarbons": {
-      "typeID": 16633,
-      "price": 0
-   },
-   "hydrogen": {
-      "typeID": 17889,
-      "price": 0
-   },
-   "isogen": {
-      "typeID": 37,
-      "price": 0
-   },
-   "liquid_ozone": {
-      "typeID": 16273,
-      "price": 0
-   },
-   "megacyte": {
-      "typeID": 40,
-      "price": 0
-   },
-   "mercury": {
-      "typeID": 16646,
-      "price": 0
-   },
-   "mexallon": {
-      "typeID": 36,
-      "price": 0
-   },
-   "morphite": {
-      "typeID": 11399,
-      "price": 0
-   },
-   "neodymium": {
-      "typeID": 16651,
-      "price": 0
-   },
-   "nitrogen": {
-      "typeID": 17888,
-      "price": 0
-   },
-   "nocxium": {
-      "typeID": 38,
-      "price": 0
-   },
-   "oxygen": {
-      "typeID": 17887,
-      "price": 0
-   },
-   "platinum": {
-      "typeID": 16644,
-      "price": 0
-   },
-   "promethium": {
-      "typeID": 16652,
-      "price": 0
-   },
-   "pyerite": {
-      "typeID": 35,
-      "price": 0
-   },
-   "scandium": {
-      "typeID": 16639,
-      "price": 0
-   },
-   "silicates": {
-      "typeID": 16636,
-      "price": 0
-   },
-   "strontium": {
-      "typeID": 16275,
-      "price": 0
-   },
-   "technetium": {
-      "typeID": 16649,
-      "price": 0
-   },
-   "thulium": {
-      "typeID": 16653,
-      "price": 0
-   },
-   "titanium": {
-      "typeID": 16638,
-      "price": 0
-   },
-   "tritanium": {
-      "typeID": 34,
-      "price": 0
-   },
-   "tungsten": {
-      "typeID": 16637,
-      "price": 0
-   },
-   "vanadium": {
-      "typeID": 16642,
-      "price": 0
-   },
-   "zydrine": {
-      "typeID": 39,
-      "price": 0
-   }
+  "atmospheric_gases": {
+    "typeID": 16634,
+    "bidPrice": 911.46,
+    "askPrice": 1001.34
+  },
+  "cadmium": {
+    "typeID": 16643,
+    "bidPrice": 6002.29,
+    "askPrice": 6561.26
+  },
+  "caesium": {
+    "typeID": 16647,
+    "bidPrice": 5517.87,
+    "askPrice": 6239.0
+  },
+  "chromium": {
+    "typeID": 16641,
+    "bidPrice": 6850.22,
+    "askPrice": 7498.86
+  },
+  "cobalt": {
+    "typeID": 16640,
+    "bidPrice": 1831.0,
+    "askPrice": 2032.11
+  },
+  "dysprosium": {
+    "typeID": 16650,
+    "bidPrice": 350.5,
+    "askPrice": 34000.0
+  },
+  "evaporite_deposits": {
+    "typeID": 16635,
+    "bidPrice": 1501.0,
+    "askPrice": 1602.48
+  },
+  "hafnium": {
+    "typeID": 16648,
+    "bidPrice": 8038.75,
+    "askPrice": 8770.06
+  },
+  "heavy_water": {
+    "typeID": 16272,
+    "bidPrice": 112.81,
+    "askPrice": 126.62
+  },
+  "helium": {
+    "typeID": 16274,
+    "bidPrice": 418.23,
+    "askPrice": 467.69
+  },
+  "hydrocarbons": {
+    "typeID": 16633,
+    "bidPrice": 1177.9,
+    "askPrice": 1316.27
+  },
+  "hydrogen": {
+    "typeID": 17889,
+    "bidPrice": 403.02,
+    "askPrice": 413.45
+  },
+  "isogen": {
+    "typeID": 37,
+    "bidPrice": 377.65,
+    "askPrice": 415.2
+  },
+  "liquid_ozone": {
+    "typeID": 16273,
+    "bidPrice": 97.45,
+    "askPrice": 100.9
+  },
+  "megacyte": {
+    "typeID": 40,
+    "bidPrice": 1528.28,
+    "askPrice": 1667.26
+  },
+  "mercury": {
+    "typeID": 16646,
+    "bidPrice": 5438.52,
+    "askPrice": 5996.5
+  },
+  "mexallon": {
+    "typeID": 36,
+    "bidPrice": 57.0,
+    "askPrice": 59.51
+  },
+  "morphite": {
+    "typeID": 11399,
+    "bidPrice": 38500.0,
+    "askPrice": 40493.81
+  },
+  "neodymium": {
+    "typeID": 16651,
+    "bidPrice": 38610.0,
+    "askPrice": 41979.75
+  },
+  "nitrogen": {
+    "typeID": 17888,
+    "bidPrice": 371.62,
+    "askPrice": 399.0
+  },
+  "nocxium": {
+    "typeID": 38,
+    "bidPrice": 890.25,
+    "askPrice": 950.59
+  },
+  "oxygen": {
+    "typeID": 17887,
+    "bidPrice": 432.03,
+    "askPrice": 448.08
+  },
+  "platinum": {
+    "typeID": 16644,
+    "bidPrice": 6828.2,
+    "askPrice": 7604.71
+  },
+  "promethium": {
+    "typeID": 16652,
+    "bidPrice": 30382.86,
+    "askPrice": 34268.7
+  },
+  "pyerite": {
+    "typeID": 35,
+    "bidPrice": 9.26,
+    "askPrice": 9.75
+  },
+  "scandium": {
+    "typeID": 16639,
+    "bidPrice": 3050.03,
+    "askPrice": 3176.85
+  },
+  "silicates": {
+    "typeID": 16636,
+    "bidPrice": 1824.0,
+    "askPrice": 1976.33
+  },
+  "strontium": {
+    "typeID": 16275,
+    "bidPrice": 2282.38,
+    "askPrice": 2810.95
+  },
+  "technetium": {
+    "typeID": 16649,
+    "bidPrice": 5014.77,
+    "askPrice": 5279.0
+  },
+  "thulium": {
+    "typeID": 16653,
+    "bidPrice": 11385.0,
+    "askPrice": 12410.94
+  },
+  "titanium": {
+    "typeID": 16638,
+    "bidPrice": 5618.0,
+    "askPrice": 7137.91
+  },
+  "tritanium": {
+    "typeID": 34,
+    "bidPrice": 3.64,
+    "askPrice": 3.7
+  },
+  "tungsten": {
+    "typeID": 16637,
+    "bidPrice": 2978.33,
+    "askPrice": 3190.07
+  },
+  "vanadium": {
+    "typeID": 16642,
+    "bidPrice": 4323.82,
+    "askPrice": 4485.61
+  },
+  "zydrine": {
+    "typeID": 39,
+    "bidPrice": 1529.57,
+    "askPrice": 1625.65
+  }
 }
