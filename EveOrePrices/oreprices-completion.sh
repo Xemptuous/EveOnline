@@ -1,6 +1,6 @@
 _autocompleteOres() 
 {
-	_autocomplete_commands=$(~/Scripts/oreprices shortlist)
+  _autocomplete_commands=$(~/Scripts/oreprices shortlist)
 	
     local cur prev opts
     COMPREPLY=()
