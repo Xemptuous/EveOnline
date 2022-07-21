@@ -1,4 +1,5 @@
 import sys
+import classes
 
 def getOrePrices(allOres, allMinerals):
     finalList = []
@@ -6,17 +7,15 @@ def getOrePrices(allOres, allMinerals):
         try:
             parent = allOres[arg]
         except KeyError:
-            print("Invalid selection. Input must be a valid Ice, Ore, or Moon Ore.")
-            return
+            print(f"Invalid selection '{arg}'.\nInput must be a valid Ice, Ore, or Moon Ore.")
+            return 1
         tempList = []
         for ore in list(parent.keys()):
-            volume = parent[ore]["volume"]
-            bonus = int(parent[ore]["bonus"] * 100)
-            bonus = f"+{bonus}%"
-            minerals = list(parent[ore].items())[5:-2]
-            mineralsList = [[key, val] for key, val in minerals if val != 0]
-            refinedPrice = "{:.2f}".format(getRefinedPrice(mineralsList, volume, allMinerals))
-            bidAskPrice = [parent[ore]["bidPrice"], parent[ore]["askPrice"]]
+            Ore = classes.Ore(parent[ore])
+            bonus = f"+{int(Ore.bonus * 100)}%"
+            mineralsList = [[key, val] for key, val in Ore.minerals.items() if val]
+            refinedPrice = "{:.2f}".format(getRefinedPrice(mineralsList, Ore.volume, allMinerals))
+            bidAskPrice = [Ore.bidPrice, Ore.askPrice]
             tempList.append([ore, bonus, refinedPrice, bidAskPrice])
         finalList.append(tempList)
     return finalList
@@ -25,7 +24,8 @@ def getOrePrices(allOres, allMinerals):
 def getRefinedPrice(mineralList, volume, mineralData):
     total = 0
     for mineral, amount in mineralList:
-        avg_price = (mineralData[mineral]["bidPrice"] + mineralData[mineral]["askPrice"]) / 2
+        Mineral = classes.Mineral(mineralData[mineral])
+        avg_price = (Mineral.bidPrice + Mineral.askPrice) / 2
         if volume < 1:
             total += (amount / volume) * avg_price * volume
             continue
