@@ -16,6 +16,8 @@ def main():
         allMinerals = json.load(mineralfile)
 
     orePrices = ores.getOrePrices(allOres, allMinerals)
+    if orePrices == 1:
+        return
 
     if PRINT_LIST:
         printLines.printListedItems(orePrices, PRINT_COLOR)
