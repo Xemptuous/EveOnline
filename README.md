@@ -12,7 +12,7 @@ oreprices.sh should link to `/bin/` to be run with ease.
 
 also make sure to source your .bashrc or .zshrc file as such:
 
-`source ~/Scripts/oreprices-completion`
+`source /path/to/your/oreprices-completion`
 
 
 ## Options
