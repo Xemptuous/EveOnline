@@ -1,21 +1,22 @@
 import json
 import requests
-import sys
+from printLines import printOreUpdates, printMineralUpdates
 
 
-def mineralPrices():
+def mineralPrices(options):
     allMinerals = openFile("mineralPrices.json")
     sortedMinerals = sorted(list(allMinerals.keys()))
     total = len(sortedMinerals)
     for count, mineral in enumerate(sortedMinerals, start=1):
         bar = getProgressBar(sortedMinerals, mineral)
-        setNewPrice(allMinerals[mineral])
-        printMinerals(count, bar, total, mineral)
+        old_mineral = allMinerals[mineral]
+        new_mineral = setNewPrice(old_mineral)
+        printMineralUpdates(count, bar, total, mineral, old_mineral, new_mineral, options)
 
     writeFile(allMinerals, "mineralPrices.json")
 
 
-def orePrices():
+def orePrices(options):
     allOres = openFile("orePrices.json")
     sortedOres = sorted(list(allOres.keys()))
     total = sum(len(allOres[ore]) for ore in sortedOres)
@@ -23,10 +24,18 @@ def orePrices():
     for parent in sortedOres:
         for ore in allOres[parent]:
             bar = getProgressBar(sortedOres, parent)
-            setNewPrice(allOres[parent][ore])
+            old_ore = allOres[parent][ore]
+            new_ore = setNewPrice(old_ore)
             count += 1
-            printOres(count, bar, total, ore)
+            printOreUpdates(count, bar, total, ore, old_ore, new_ore, options)
     writeFile(allOres, "orePrices.json")
+
+
+def setNewPrice(current):
+    bidAskPrice = getBidAskPrice(current)
+    current['bidPrice'] = round(bidAskPrice[0], 2)
+    current['askPrice'] = round(bidAskPrice[1], 2)
+    return current
 
 
 def getBidAskPrice(current):
@@ -34,6 +43,7 @@ def getBidAskPrice(current):
         types = [current['compressedID'], current['typeID']]
     except KeyError:
         types = [current['typeID']]
+
     bid_price = current['bidPrice']
     ask_price = current['askPrice']
 
@@ -56,25 +66,9 @@ def getNewPrice(data, side):
     return 0
 
 
-def setNewPrice(current):
-    bidAskPrice = getBidAskPrice(current)
-    current['bidPrice'] = round(bidAskPrice[0], 2)
-    current['askPrice'] = round(bidAskPrice[1], 2)
-
-
 def getProgressBar(sortedOres, parent):
     width = sortedOres.index(parent) + 1
     return "[" + "#" * width + " " * (len(sortedOres) - width) + "]"
-
-
-def printOres(count, bar, total, ore):
-    print(u"\u001b[1000D" + bar + f" {count:<3}/{total}" + f" {ore:^5}", end=f"{' ' * (25 - (len(ore)))}")
-    sys.stdout.flush()
-
-
-def printMinerals(count, bar, total, mineral):
-    print(u"\u001b[1000D" + bar + f" {count:<2}/{total}" + f" {mineral:^5}", end=f"{' ' * (20 - (len(mineral)))}")
-    sys.stdout.flush()
 
 
 def openFile(name):
