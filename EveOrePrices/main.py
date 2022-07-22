@@ -25,38 +25,38 @@ def main():
     printLines.printTopItems(orePrices, PRINT_COLOR)
 
 
-def updatePrices():
+def updatePrices(options):
     from updateData import mineralPrices, orePrices
     print("Updating Mineral Prices...")
-    start = time.time()
-    mineralPrices()
-    print(f"\nMinerals Updated in {round(time.time() - start, 2)} seconds.")
+    og_start = time.time()
+    mineralPrices(options)
+    print(f"\nMinerals Updated in {round(time.time() - og_start, 2)} seconds.")
 
     print("Updating Ore Prices...")
     start = time.time()
-    orePrices()
-    print(f"\nMinerals Updated in {round(time.time() - start, 2)} seconds.")
+    orePrices(options)
+    print(f"\nMinerals Updated in {round(time.time() - start, 2)} seconds.\n")
 
-    print("Updating Complete")
+    print(f"\nUpdating Complete in {round(time.time() - og_start, 2)} seconds.")
 
 
 def commandArguments():
-    global PRINT_LIST
-    global PRINT_COLOR
-
+    if sys.argv[1][0] == '-':
+        options = list(sys.argv[1])[1:]
+        for opt in options:
+            match opt:
+                case 'l':
+                    OPTIONS["list"] = 1
+                case 'c':
+                    OPTIONS["color"] = 1
+                case 'r':
+                    OPTIONS["reverse"] = 1
+                case 'v':
+                    OPTIONS["verbose"] = 1
+        sys.argv = sys.argv[1:]
     if sys.argv[1] == 'update':
-        updatePrices()
+        updatePrices(OPTIONS["verbose"])
         return
-    if sys.argv[1] == '-l':
-        PRINT_LIST = True
-        sys.argv = sys.argv[1:]
-    if sys.argv[1] == '-c':
-        PRINT_COLOR = True
-        sys.argv = sys.argv[1:]
-    if sys.argv[1] in ['-lc', '-cl']:
-        PRINT_LIST = True
-        PRINT_COLOR = True
-        sys.argv = sys.argv[1:]
 
 
 if __name__ == "__main__":
