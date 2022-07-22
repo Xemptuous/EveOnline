@@ -5,8 +5,8 @@ import printLines
 import ores
 
 # TODO: add triglavian and wormhole ores to orePrices.json (and bash-completions)
-PRINT_LIST = False
-PRINT_COLOR = False
+with open("options.json") as optionsfile:
+    OPTIONS = json.load(optionsfile)
 
 def main():
     commandArguments()
