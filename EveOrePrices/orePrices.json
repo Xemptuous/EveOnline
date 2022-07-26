@@ -15,8 +15,8 @@
         "megacyte": 0.075,
         "morphite": 0
       },
-      "askPrice": 2884.88,
-      "bidPrice": 2600.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "crimson arkonor": {
       "typeID": 17425,
@@ -33,8 +33,8 @@
         "megacyte": 0.079,
         "morphite": 0
       },
-      "askPrice": 3887.95,
-      "bidPrice": 2350.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "prime arkonor": {
       "typeID": 17426,
@@ -51,8 +51,8 @@
         "megacyte": 0.083,
         "morphite": 0
       },
-      "askPrice": 3450.0,
-      "bidPrice": 2468.5
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "flawless arkonor": {
       "typeID": 46678,
@@ -69,8 +69,64 @@
         "megacyte": 0.086,
         "morphite": 0
       },
-      "askPrice": 5898.66,
-      "bidPrice": 1936.03
+      "askPrice": 0,
+      "bidPrice": 0
+    }
+  },
+  "bezdnacine": {
+    "bezdnacine": {
+      "typeID": 52316,
+      "compressedID": 62576,
+      "volume": 16,
+      "bonus": 0,
+      "minerals": {
+        "tritanium": 25,
+        "pyerite": 0,
+        "mexallon": 0,
+        "isogen": 3,
+        "nocxium": 0,
+        "zydrine": 0,
+        "megacyte": 0.08,
+        "morphite": 0
+      },
+      "askPrice": 0,
+      "bidPrice": 0
+    },
+    "abyssal bezdnacine": {
+      "typeID": 56627,
+      "compressedID": 62577,
+      "volume": 16,
+      "bonus": 0.05,
+      "minerals": {
+        "tritanium": 26.25,
+        "pyerite": 0,
+        "mexallon": 0,
+        "isogen": 3.15,
+        "nocxium": 0,
+        "zydrine": 0,
+        "megacyte": 0.084,
+        "morphite": 0
+      },
+      "askPrice": 0,
+      "bidPrice": 0
+    },
+    "hadal bezdnacine": {
+      "typeID": 56628,
+      "compressedID": 62578,
+      "volume": 16,
+      "bonus": 0.1,
+      "minerals": {
+        "tritanium": 27.5,
+        "pyerite": 0,
+        "mexallon": 0,
+        "isogen": 3.3,
+        "nocxium": 0,
+        "zydrine": 0,
+        "megacyte": 0.088,
+        "morphite": 0
+      },
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "bistot": {
@@ -89,8 +145,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 3179.0,
-      "bidPrice": 2854.81
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "triclinic bistot": {
       "typeID": 17428,
@@ -107,8 +163,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 3216.0,
-      "bidPrice": 2843.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "monoclinic bistot": {
       "typeID": 17429,
@@ -125,8 +181,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 3678.14,
-      "bidPrice": 2924.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "cubic bistot": {
       "typeID": 46676,
@@ -143,8 +199,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 3897.67,
-      "bidPrice": 2351.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "crokite": {
@@ -163,8 +219,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 7844.77,
-      "bidPrice": 7048.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "sharp crokite": {
       "typeID": 17432,
@@ -181,8 +237,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 8394.0,
-      "bidPrice": 7800.14
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "crystalline crokite": {
       "typeID": 17433,
@@ -199,8 +255,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 8725.9,
-      "bidPrice": 7541.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "pellucid crokite": {
       "typeID": 46677,
@@ -217,8 +273,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 14100.0,
-      "bidPrice": 6582.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "dark ochre": {
@@ -237,8 +293,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 8000.0,
-      "bidPrice": 6584.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "onyx ochre": {
       "typeID": 17436,
@@ -255,8 +311,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 8400.0,
-      "bidPrice": 6907.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "obsidian ochre": {
       "typeID": 17437,
@@ -273,8 +329,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 8299.94,
-      "bidPrice": 6050.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "jet ochre": {
       "typeID": 46675,
@@ -291,8 +347,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 11999.44,
-      "bidPrice": 6001.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "gneiss": {
@@ -311,8 +367,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 3661.05,
-      "bidPrice": 3508.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "iridescent gneiss": {
       "typeID": 17865,
@@ -329,8 +385,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 4090.57,
-      "bidPrice": 3034.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "prismatic gneiss": {
       "typeID": 17866,
@@ -347,8 +403,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 4354.02,
-      "bidPrice": 3762.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "brilliant gneiss": {
       "typeID": 46679,
@@ -365,8 +421,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 99987.51,
-      "bidPrice": 3333.64
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "hedbergite": {
@@ -385,8 +441,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 1610.0,
-      "bidPrice": 900.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "vitric hedbergite": {
       "typeID": 17440,
@@ -403,8 +459,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 1480.0,
-      "bidPrice": 792.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "glazed hedbergite": {
       "typeID": 17441,
@@ -421,8 +477,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 1690.0,
-      "bidPrice": 1000.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "lustrous hedbergite": {
       "typeID": 46680,
@@ -439,8 +495,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 1666.0,
-      "bidPrice": 108.1
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "hemorphite": {
@@ -459,8 +515,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 1662.08,
-      "bidPrice": 1324.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "vivid hemorphite": {
       "typeID": 17444,
@@ -477,8 +533,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 1697.0,
-      "bidPrice": 1372.31
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "radiant hemorphite": {
       "typeID": 17445,
@@ -495,8 +551,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 1989.0,
-      "bidPrice": 1400.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "scintillating hemorphite": {
       "typeID": 46681,
@@ -513,8 +569,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 2459.62,
-      "bidPrice": 21.31
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "jaspet": {
@@ -533,8 +589,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 647.96,
-      "bidPrice": 453.17
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "pure jaspet": {
       "typeID": 17448,
@@ -551,8 +607,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 799.88,
-      "bidPrice": 461.5
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "pristine jaspet": {
       "typeID": 17449,
@@ -569,8 +625,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 697.7,
-      "bidPrice": 461.2
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "immaculate jaspet": {
       "typeID": 46682,
@@ -587,8 +643,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 2482.97,
-      "bidPrice": 110.3
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "kernite": {
@@ -607,8 +663,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 545.53,
-      "bidPrice": 392.84
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "luminous kernite": {
       "typeID": 17452,
@@ -625,8 +681,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 558.53,
-      "bidPrice": 392.4
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "fiery kernite": {
       "typeID": 17453,
@@ -643,8 +699,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 599.8,
-      "bidPrice": 461.08
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "resplendant kernite": {
       "typeID": 46683,
@@ -661,8 +717,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 900.0,
-      "bidPrice": 133.5
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "mercoxit": {
@@ -681,8 +737,8 @@
         "megacyte": 0,
         "morphite": 0.035
       },
-      "askPrice": 47975.85,
-      "bidPrice": 40200.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "magma mercoxit": {
       "typeID": 17869,
@@ -699,8 +755,8 @@
         "megacyte": 0,
         "morphite": 0.037
       },
-      "askPrice": 49987.04,
-      "bidPrice": 31340.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "vitreous mercoxit": {
       "typeID": 17870,
@@ -717,8 +773,8 @@
         "megacyte": 0,
         "morphite": 0.039
       },
-      "askPrice": 55026.15,
-      "bidPrice": 50210.38
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "omber": {
@@ -737,8 +793,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 391.98,
-      "bidPrice": 241.6
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "silvery omber": {
       "typeID": 17867,
@@ -755,8 +811,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 552.39,
-      "bidPrice": 258.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "golden omber": {
       "typeID": 17868,
@@ -773,8 +829,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 428.8,
-      "bidPrice": 260.2
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "platinoid omber": {
       "typeID": 46684,
@@ -791,8 +847,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 121200.0,
-      "bidPrice": 107.91
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "plagioclase": {
@@ -811,8 +867,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 42.43,
-      "bidPrice": 36.11
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "azure plagioclase": {
       "typeID": 17455,
@@ -829,8 +885,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 41.47,
-      "bidPrice": 37.17
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "rich plagioclase": {
       "typeID": 17456,
@@ -847,8 +903,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 44.73,
-      "bidPrice": 38.32
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "sparkling plagioclase": {
       "typeID": 46685,
@@ -865,8 +921,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 70.57,
-      "bidPrice": 63.99
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "pyroxeres": {
@@ -885,8 +941,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 32.8,
-      "bidPrice": 30.51
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "solid pyroxeres": {
       "typeID": 17459,
@@ -903,8 +959,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 30.58,
-      "bidPrice": 26.71
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "viscous pyroxeres": {
       "typeID": 17460,
@@ -921,8 +977,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 38.62,
-      "bidPrice": 29.54
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "opulent pyroxeres": {
       "typeID": 46686,
@@ -939,8 +995,64 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 1850.0,
-      "bidPrice": 50.02
+      "askPrice": 0,
+      "bidPrice": 0
+    }
+  },
+  "rakovene": {
+    "rakovene": {
+      "typeID": 52315,
+      "compressedID": 62579,
+      "volume": 16,
+      "bonus": 0,
+      "minerals": {
+        "tritanium": 25,
+        "pyerite": 0,
+        "mexallon": 0,
+        "isogen": 2,
+        "nocxium": 0,
+        "zydrine": 0.125,
+        "megacyte": 0,
+        "morphite": 0
+      },
+      "askPrice": 0,
+      "bidPrice": 0
+    },
+    "abyssal rakovene": {
+      "typeID": 56629,
+      "compressedID": 62580,
+      "volume": 16,
+      "bonus": 0.05,
+      "minerals": {
+        "tritanium": 26.25,
+        "pyerite": 0,
+        "mexallon": 0,
+        "isogen": 2.1,
+        "nocxium": 0,
+        "zydrine": 0.131,
+        "megacyte": 0,
+        "morphite": 0
+      },
+      "askPrice": 0,
+      "bidPrice": 0
+    },
+    "hadal rakovene": {
+      "typeID": 56630,
+      "compressedID": 62581,
+      "volume": 16,
+      "bonus": 0.1,
+      "minerals": {
+        "tritanium": 27.5,
+        "pyerite": 0,
+        "mexallon": 0,
+        "isogen": 2.2,
+        "nocxium": 0,
+        "zydrine": 0.138,
+        "megacyte": 0,
+        "morphite": 0
+      },
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "scordite": {
@@ -959,8 +1071,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 18.26,
-      "bidPrice": 14.06
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "condensed scordite": {
       "typeID": 17463,
@@ -977,8 +1089,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 19.76,
-      "bidPrice": 13.79
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "massive scordite": {
       "typeID": 17464,
@@ -995,8 +1107,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 19.78,
-      "bidPrice": 14.93
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "glossy scordite": {
       "typeID": 46687,
@@ -1013,8 +1125,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 4799.0,
-      "bidPrice": 14.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "spodumain": {
@@ -1033,8 +1145,8 @@
         "megacyte": 0.025,
         "morphite": 0
       },
-      "askPrice": 25600.0,
-      "bidPrice": 5895.01
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "bright spodumain": {
       "typeID": 17466,
@@ -1051,8 +1163,8 @@
         "megacyte": 0.026,
         "morphite": 0
       },
-      "askPrice": 38500.0,
-      "bidPrice": 20020.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "gleaming spodumain": {
       "typeID": 17467,
@@ -1069,8 +1181,8 @@
         "megacyte": 0.028,
         "morphite": 0
       },
-      "askPrice": 59000.0,
-      "bidPrice": 20740.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "dazzling spodumain": {
       "typeID": 46688,
@@ -1087,8 +1199,64 @@
         "megacyte": 0.029,
         "morphite": 0
       },
-      "askPrice": 73750.0,
-      "bidPrice": 7573.0
+      "askPrice": 0,
+      "bidPrice": 0
+    }
+  },
+  "talassonite": {
+    "talassonite": {
+      "typeID": 52306,
+      "compressedID": 62582,
+      "volume": 16,
+      "bonus": 0,
+      "minerals": {
+        "tritanium": 25,
+        "pyerite": 0,
+        "mexallon": 0,
+        "isogen": 0,
+        "nocxium": 0.6,
+        "zydrine": 0,
+        "megacyte": 0.02,
+        "morphite": 0
+      },
+      "askPrice": 0,
+      "bidPrice": 0
+    },
+    "abyssal talassonite": {
+      "typeID": 56625,
+      "compressedID": 62583,
+      "volume": 16,
+      "bonus": 0,
+      "minerals": {
+        "tritanium": 26.25,
+        "pyerite": 0,
+        "mexallon": 0,
+        "isogen": 0,
+        "nocxium": 0.63,
+        "zydrine": 0,
+        "megacyte": 0.021,
+        "morphite": 0
+      },
+      "askPrice": 0,
+      "bidPrice": 0
+    },
+    "hadal talassonite": {
+      "typeID": 56626,
+      "compressedID": 62584,
+      "volume": 16,
+      "bonus": 0,
+      "minerals": {
+        "tritanium": 27.5,
+        "pyerite": 0,
+        "mexallon": 0,
+        "isogen": 0,
+        "nocxium": 0.66,
+        "zydrine": 0,
+        "megacyte": 0.022,
+        "morphite": 0
+      },
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "veldspar": {
@@ -1107,8 +1275,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 11.43,
-      "bidPrice": 9.71
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "concentrated veldspar": {
       "typeID": 17470,
@@ -1125,8 +1293,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 12.26,
-      "bidPrice": 10.09
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "dense veldspar": {
       "typeID": 17471,
@@ -1143,8 +1311,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 12.82,
-      "bidPrice": 11.12
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "stable veldspar": {
       "typeID": 46689,
@@ -1161,8 +1329,8 @@
         "megacyte": 0,
         "morphite": 0
       },
-      "askPrice": 49.81,
-      "bidPrice": 1.22
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "bitumens": {
@@ -1195,8 +1363,8 @@
         "pyerite": 6,
         "mexallon": 0.4
       },
-      "askPrice": 1299.0,
-      "bidPrice": 952.41
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "brimful bitumens": {
       "typeID": 46284,
@@ -1227,8 +1395,8 @@
         "pyerite": 6.9,
         "mexallon": 0.46
       },
-      "askPrice": 1596.44,
-      "bidPrice": 1018.09
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "glistening bitumens": {
       "typeID": 46285,
@@ -1259,8 +1427,8 @@
         "pyerite": 12,
         "mexallon": 0.8
       },
-      "askPrice": 1667.0,
-      "bidPrice": 1183.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "carnotite": {
@@ -1293,8 +1461,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 48000.0,
-      "bidPrice": 64.45
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "replete carnotite": {
       "typeID": 46304,
@@ -1326,7 +1494,7 @@
         "mexallon": 0
       },
       "askPrice": 0,
-      "bidPrice": 62.91
+      "bidPrice": 0
     },
     "glowing carnotite": {
       "typeID": 46305,
@@ -1358,7 +1526,7 @@
         "mexallon": 0
       },
       "askPrice": 0,
-      "bidPrice": 63.29
+      "bidPrice": 0
     }
   },
   "chromite": {
@@ -1391,8 +1559,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 6400.0,
-      "bidPrice": 350.1
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "lavish chromite": {
       "typeID": 46302,
@@ -1423,8 +1591,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 36600.0,
-      "bidPrice": 368.14
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "shimmering chromite": {
       "typeID": 46303,
@@ -1455,8 +1623,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 15000.0,
-      "bidPrice": 71.95
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "cinnabar": {
@@ -1489,8 +1657,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 3500.0,
-      "bidPrice": 82.3
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "replete cinnabar": {
       "typeID": 46310,
@@ -1522,7 +1690,7 @@
         "mexallon": 0
       },
       "askPrice": 0,
-      "bidPrice": 63.49
+      "bidPrice": 0
     },
     "glowing cinnabar": {
       "typeID": 46311,
@@ -1554,7 +1722,7 @@
         "mexallon": 0
       },
       "askPrice": 0,
-      "bidPrice": 139.7
+      "bidPrice": 0
     }
   },
   "cobaltite": {
@@ -1587,8 +1755,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 2000.0,
-      "bidPrice": 21.25
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "copious cobaltite": {
       "typeID": 46288,
@@ -1619,8 +1787,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 2000.0,
-      "bidPrice": 258.6
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "twinkling cobaltite": {
       "typeID": 46289,
@@ -1651,8 +1819,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 2000.0,
-      "bidPrice": 61.82
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "coesite": {
@@ -1685,8 +1853,8 @@
         "pyerite": 2,
         "mexallon": 0.4
       },
-      "askPrice": 1393.0,
-      "bidPrice": 906.71
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "brimful coesite": {
       "typeID": 46286,
@@ -1717,8 +1885,8 @@
         "pyerite": 2.3,
         "mexallon": 0.46
       },
-      "askPrice": 1667.0,
-      "bidPrice": 1183.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "glistening coesite": {
       "typeID": 46287,
@@ -1749,8 +1917,8 @@
         "pyerite": 4,
         "mexallon": 0.8
       },
-      "askPrice": 3000.0,
-      "bidPrice": 1930.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "euxenite": {
@@ -1783,8 +1951,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 999523.81,
-      "bidPrice": 1489.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "copious euxenite": {
       "typeID": 46290,
@@ -1815,8 +1983,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 1501.0,
-      "bidPrice": 110.7
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "twinkling euxenite": {
       "typeID": 46291,
@@ -1847,8 +2015,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 10000.0,
-      "bidPrice": 1650.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "loparite": {
@@ -1881,8 +2049,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 300000.0,
-      "bidPrice": 1158.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "bountiful loparite": {
       "typeID": 46316,
@@ -1913,8 +2081,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 374000.0,
-      "bidPrice": 4101.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "shining loparite": {
       "typeID": 46317,
@@ -1946,7 +2114,7 @@
         "mexallon": 0
       },
       "askPrice": 0,
-      "bidPrice": 120.6
+      "bidPrice": 0
     }
   },
   "monazite": {
@@ -1979,8 +2147,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 15000.0,
-      "bidPrice": 2601.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "bountiful monazite": {
       "typeID": 46314,
@@ -2011,8 +2179,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 13000.0,
-      "bidPrice": 5101.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "shining monazite": {
       "typeID": 46315,
@@ -2044,7 +2212,7 @@
         "mexallon": 0
       },
       "askPrice": 0,
-      "bidPrice": 236.4
+      "bidPrice": 0
     }
   },
   "otavite": {
@@ -2077,8 +2245,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 8000.0,
-      "bidPrice": 82.3
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "lavish otavite": {
       "typeID": 46296,
@@ -2109,8 +2277,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 3740.0,
-      "bidPrice": 115.91
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "shimmering otavite": {
       "typeID": 46297,
@@ -2142,7 +2310,7 @@
         "mexallon": 0
       },
       "askPrice": 0,
-      "bidPrice": 76.89
+      "bidPrice": 0
     }
   },
   "pollucite": {
@@ -2175,8 +2343,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 37500.0,
-      "bidPrice": 1751.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "replete pollucite": {
       "typeID": 46308,
@@ -2207,8 +2375,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 35000.0,
-      "bidPrice": 67.14
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "glowing pollucite": {
       "typeID": 46309,
@@ -2240,7 +2408,7 @@
         "mexallon": 0
       },
       "askPrice": 0,
-      "bidPrice": 141.1
+      "bidPrice": 0
     }
   },
   "scheelite": {
@@ -2274,7 +2442,7 @@
         "mexallon": 0
       },
       "askPrice": 0,
-      "bidPrice": 110.6
+      "bidPrice": 0
     },
     "copious scheelite": {
       "typeID": 46294,
@@ -2305,8 +2473,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 300000.0,
-      "bidPrice": 250.1
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "twinkling scheelite": {
       "typeID": 46295,
@@ -2338,7 +2506,7 @@
         "mexallon": 0
       },
       "askPrice": 0,
-      "bidPrice": 61.76
+      "bidPrice": 0
     }
   },
   "sperrylite": {
@@ -2371,8 +2539,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 4490.0,
-      "bidPrice": 611.31
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "lavish sperrylite": {
       "typeID": 46298,
@@ -2403,8 +2571,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 3498.99,
-      "bidPrice": 678.12
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "shimmering sperrylite": {
       "typeID": 46299,
@@ -2436,7 +2604,7 @@
         "mexallon": 0
       },
       "askPrice": 0,
-      "bidPrice": 71.06
+      "bidPrice": 0
     }
   },
   "sylvite": {
@@ -2469,8 +2637,8 @@
         "pyerite": 4,
         "mexallon": 0.4
       },
-      "askPrice": 1235.0,
-      "bidPrice": 904.4
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "brimful sylvite": {
       "typeID": 46282,
@@ -2501,8 +2669,8 @@
         "pyerite": 4.6,
         "mexallon": 0.46
       },
-      "askPrice": 1493.0,
-      "bidPrice": 1240.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "glistening sylvite": {
       "typeID": 46283,
@@ -2533,8 +2701,8 @@
         "pyerite": 8,
         "mexallon": 0.8
       },
-      "askPrice": 2190.75,
-      "bidPrice": 970.4
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "titanite": {
@@ -2568,7 +2736,7 @@
         "mexallon": 0
       },
       "askPrice": 0,
-      "bidPrice": 23.72
+      "bidPrice": 0
     },
     "copious titanite": {
       "typeID": 46292,
@@ -2599,8 +2767,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 2998.0,
-      "bidPrice": 250.1
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "twinkling titanite": {
       "typeID": 46293,
@@ -2631,8 +2799,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 3000.0,
-      "bidPrice": 50.41
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "vanadinite": {
@@ -2665,8 +2833,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 150000.0,
-      "bidPrice": 47.12
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "lavish vanadinite": {
       "typeID": 46300,
@@ -2697,8 +2865,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 798.8,
-      "bidPrice": 22.04
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "shimmering vanadinite": {
       "typeID": 46301,
@@ -2730,7 +2898,7 @@
         "mexallon": 0
       },
       "askPrice": 0,
-      "bidPrice": 73.15
+      "bidPrice": 0
     }
   },
   "xenotime": {
@@ -2763,8 +2931,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 8800.0,
-      "bidPrice": 1536.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "bountiful xenotime": {
       "typeID": 46312,
@@ -2795,8 +2963,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 99000.0,
-      "bidPrice": 7101.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "shining xenotime": {
       "typeID": 46313,
@@ -2827,8 +2995,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 45000.0,
-      "bidPrice": 1101.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "ytterbite": {
@@ -2861,8 +3029,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 6249.0,
-      "bidPrice": 2201.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "bountiful ytterbite": {
       "typeID": 46318,
@@ -2893,8 +3061,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 7000.0,
-      "bidPrice": 1622.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "shining ytterbite": {
       "typeID": 46319,
@@ -2926,7 +3094,7 @@
         "mexallon": 0
       },
       "askPrice": 0,
-      "bidPrice": 221.35
+      "bidPrice": 0
     }
   },
   "zeolites": {
@@ -2959,8 +3127,8 @@
         "pyerite": 8,
         "mexallon": 0.4
       },
-      "askPrice": 1397.44,
-      "bidPrice": 1007.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "brimful zeolites": {
       "typeID": 46280,
@@ -2991,8 +3159,8 @@
         "pyerite": 9.2,
         "mexallon": 0.46
       },
-      "askPrice": 1450.0,
-      "bidPrice": 1202.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "glistening zeolites": {
       "typeID": 46281,
@@ -3023,8 +3191,8 @@
         "pyerite": 16,
         "mexallon": 0.8
       },
-      "askPrice": 2250.0,
-      "bidPrice": 1017.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "zircon": {
@@ -3057,8 +3225,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 7350.0,
-      "bidPrice": 3127.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "replete zircon": {
       "typeID": 46306,
@@ -3089,8 +3257,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 7300.0,
-      "bidPrice": 62.94
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "glowing zircon": {
       "typeID": 46307,
@@ -3121,8 +3289,8 @@
         "pyerite": 0,
         "mexallon": 0
       },
-      "askPrice": 15000.0,
-      "bidPrice": 141.4
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "blue_ice": {
@@ -3140,8 +3308,8 @@
         "hydrogen": 0,
         "nitrogen": 0
       },
-      "askPrice": 143993.44,
-      "bidPrice": 129000.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "thick blue ice": {
       "typeID": 17975,
@@ -3157,8 +3325,8 @@
         "hydrogen": 0,
         "nitrogen": 0
       },
-      "askPrice": 170000.0,
-      "bidPrice": 153000.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "clear_icicle": {
@@ -3176,8 +3344,8 @@
         "hydrogen": 0,
         "nitrogen": 0
       },
-      "askPrice": 157500.0,
-      "bidPrice": 146700.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "enriched clear icicle": {
       "typeID": 17978,
@@ -3193,8 +3361,8 @@
         "hydrogen": 0,
         "nitrogen": 0
       },
-      "askPrice": 234793.7,
-      "bidPrice": 173000.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "dark_glitter": {
@@ -3212,8 +3380,8 @@
         "hydrogen": 0,
         "nitrogen": 0
       },
-      "askPrice": 296600.0,
-      "bidPrice": 220100.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "gelidus": {
@@ -3231,8 +3399,8 @@
         "hydrogen": 0,
         "nitrogen": 0
       },
-      "askPrice": 350000.0,
-      "bidPrice": 190000.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "glacial_mass": {
@@ -3250,8 +3418,8 @@
         "hydrogen": 414,
         "nitrogen": 0
       },
-      "askPrice": 132200.0,
-      "bidPrice": 128000.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "smooth glacial mass": {
       "typeID": 17977,
@@ -3267,8 +3435,8 @@
         "hydrogen": 483,
         "nitrogen": 0
       },
-      "askPrice": 237800.0,
-      "bidPrice": 163000.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "glare_crust": {
@@ -3286,8 +3454,8 @@
         "hydrogen": 0,
         "nitrogen": 0
       },
-      "askPrice": 231100.0,
-      "bidPrice": 185000.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "krystallos": {
@@ -3305,8 +3473,8 @@
         "hydrogen": 0,
         "nitrogen": 0
       },
-      "askPrice": 456900.0,
-      "bidPrice": 300200.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   },
   "white_glaze": {
@@ -3324,8 +3492,8 @@
         "hydrogen": 0,
         "nitrogen": 414
       },
-      "askPrice": 132687.73,
-      "bidPrice": 125400.0
+      "askPrice": 0,
+      "bidPrice": 0
     },
     "pristine white glaze": {
       "typeID": 17976,
@@ -3341,8 +3509,8 @@
         "hydrogen": 0,
         "nitrogen": 483
       },
-      "askPrice": 194975.38,
-      "bidPrice": 173800.0
+      "askPrice": 0,
+      "bidPrice": 0
     }
   }
 }
