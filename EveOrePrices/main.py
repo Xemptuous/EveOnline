@@ -54,9 +54,22 @@ def commandArguments():
                 case 'v':
                     OPTIONS["verbose"] = 1
         sys.argv = sys.argv[1:]
-    if sys.argv[1] == 'update':
+    elif sys.argv[1] == 'update':
         updatePrices(OPTIONS["verbose"])
-        return
+        quit()
+    elif sys.argv[1] == 'set':
+        if 'refine' in sys.argv[2]:
+            OPTIONS["refine"] = round(float(sys.argv[3]) * .01, 4)
+            print(f"refine % set to {OPTIONS['refine']*100} %")
+        else:
+            if sys.argv[3] == "always":
+                OPTIONS[sys.argv[2]] = 1
+            elif sys.argv[3] == "never":
+                OPTIONS[sys.argv[2]] = 0
+            print(f"Option '{sys.argv[2]}' set to {sys.argv[3]}")
+        with open("options.json", 'w') as writefile:
+            json.dump(OPTIONS, writefile, indent=2, separators=(',', ': '))
+        quit()
 
 
 if __name__ == "__main__":
