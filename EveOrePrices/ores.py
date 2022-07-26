@@ -29,8 +29,5 @@ def getRefinedPrice(mineralList, volume, mineralData):
         # initializing class for current mineral.
         Mineral = classes.Mineral(mineralData[mineral])
         avg_price = (Mineral.bidPrice + Mineral.askPrice) / 2
-        if volume < 1:
-            total += (amount / volume) * avg_price * volume
-            continue
-        total += (amount * volume) * avg_price / volume
+        total += ((amount / volume) * avg_price * volume) if volume < 1 else ((amount * volume) * avg_price / volume)
     return round(total,2)
