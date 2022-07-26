@@ -30,7 +30,7 @@ Files currently print out uncolored and ordered by original input order by defau
 
 Options can be set by using `set` and then the option. 
 
-`set refine <refine amount>` will set the base refine-yield % that will be used when calculating refine value.
+`set refine <refine amount>` will set the base refine-yield % that will be used when calculating refine value. Values should be in standard percentage format without % symbol. e.g., `set refine 76.8`
 
 Other options can be set with `always` and `never`
 e.g. `set color always` will change options to set colored by default.
