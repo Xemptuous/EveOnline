@@ -36,7 +36,7 @@ Other options can be set with `always` and `never`
 e.g. `set color always` will change options to set colored by default.
 
 
-### Usage
+## Usage
 
 base usage is   `oreprices [OPTION]... ORES`
 
