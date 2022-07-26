@@ -11,8 +11,10 @@ def getOrePrices(allOres, allMinerals):
             return 1
         tempList = []
         for ore in list(parent.keys()):
+            # initializing class for each ore in the parent category.
             Ore = classes.Ore(parent[ore])
             bonus = f"+{int(Ore.bonus * 100)}%"
+            # returning list of all minerals for this ore that have values.
             mineralsList = [[key, val] for key, val in Ore.minerals.items() if val]
             refinedPrice = "{:.2f}".format(getRefinedPrice(mineralsList, Ore.volume, allMinerals))
             bidAskPrice = [Ore.bidPrice, Ore.askPrice]
@@ -24,6 +26,7 @@ def getOrePrices(allOres, allMinerals):
 def getRefinedPrice(mineralList, volume, mineralData):
     total = 0
     for mineral, amount in mineralList:
+        # initializing class for current mineral.
         Mineral = classes.Mineral(mineralData[mineral])
         avg_price = (Mineral.bidPrice + Mineral.askPrice) / 2
         if volume < 1:
