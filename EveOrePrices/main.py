@@ -46,13 +46,13 @@ def commandArguments():
         for opt in options:
             match opt:
                 case 'l':
-                    OPTIONS["list"] = 1
+                    OPTIONS["list"] ^= 1
                 case 'c':
-                    OPTIONS["color"] = 1
+                    OPTIONS["color"] ^= 1
                 case 'r':
-                    OPTIONS["reverse"] = 1
+                    OPTIONS["reverse"] ^= 1
                 case 'v':
-                    OPTIONS["verbose"] = 1
+                    OPTIONS["verbose"] ^= 1
         sys.argv = sys.argv[1:]
     elif sys.argv[1] == 'update':
         updatePrices(OPTIONS["verbose"])
