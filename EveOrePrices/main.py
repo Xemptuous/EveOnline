@@ -1,28 +1,29 @@
 import json
 import time
-import sys
 import printLines
-import ores
+from ores import getOrePrices
+from argparse import ArgumentParser
 
-# TODO: add triglavian and wormhole ores to orePrices.json (and bash-completions)
-with open("options.json") as optionsfile:
-    OPTIONS = json.load(optionsfile)
+# load options at start of script
+with open("options.json") as f:
+    OPTIONS = json.load(f)
+
 
 def main():
-    commandArguments()
+    # process command line arguments
+    args = commandArguments()
 
+    # open json files and read data
     with open("orePrices.json") as orefile, open("mineralPrices.json") as mineralfile:
         allOres = json.load(orefile)
         allMinerals = json.load(mineralfile)
 
-    orePrices = ores.getOrePrices(allOres, allMinerals)
+    # get ore prices
+    orePrices = getOrePrices(args, allOres, allMinerals)
     if orePrices == 1:
         return
-
-    if PRINT_LIST:
-        printLines.printListedItems(orePrices, PRINT_COLOR)
-        return
-    printLines.printTopItems(orePrices, PRINT_COLOR)
+    # print results
+    printLines.printItems(orePrices, OPTIONS)
 
 
 def updatePrices(options):
@@ -38,38 +39,60 @@ def updatePrices(options):
     print(f"\nMinerals Updated in {round(time.time() - start, 2)} seconds.\n")
 
     print(f"\nUpdating Complete in {round(time.time() - og_start, 2)} seconds.")
+    quit()
 
 
 def commandArguments():
-    if sys.argv[1][0] == '-':
-        options = list(sys.argv[1])[1:]
-        for opt in options:
-            match opt:
-                case 'l':
-                    OPTIONS["list"] ^= 1
-                case 'c':
-                    OPTIONS["color"] ^= 1
-                case 'r':
-                    OPTIONS["reverse"] ^= 1
-                case 'v':
-                    OPTIONS["verbose"] ^= 1
-        sys.argv = sys.argv[1:]
-    elif sys.argv[1] == 'update':
-        updatePrices(OPTIONS["verbose"])
+    args = addParsers()
+    ores = args['ores']
+    sets = args['set']
+    opt_list = ['list', 'color', 'reverse', 'verbose']
+    opts = {key: args[key] for key in args if key in opt_list}
+
+    # setting options for current run
+    for k, v in opts.items():
+        if v:
+            # toggle between 1 and 0
+            OPTIONS[k] ^= 1
+
+    # setting persistent options
+    if sets:
+        setPersistentOptions(sets)
         quit()
-    elif sys.argv[1] == 'set':
-        if 'refine' in sys.argv[2]:
-            OPTIONS["refine"] = round(float(sys.argv[3]) * .01, 4)
-            print(f"refine % set to {OPTIONS['refine']*100} %")
-        else:
-            if sys.argv[3] == "always":
-                OPTIONS[sys.argv[2]] = 1
-            elif sys.argv[3] == "never":
-                OPTIONS[sys.argv[2]] = 0
-            print(f"Option '{sys.argv[2]}' set to {sys.argv[3]}")
-        with open("options.json", 'w') as writefile:
-            json.dump(OPTIONS, writefile, indent=2, separators=(',', ': '))
-        quit()
+    return ores
+
+
+def addParsers():
+    parser = ArgumentParser(description="Provides prices and relative values of various ores for determining "
+                                        "the best ore to mine out of the given options.")
+    parser.add_argument("-l", "--list",
+                        help="Sorts items in a single list as opposed to grouping by original input order.",
+                        action="store_true")
+    parser.add_argument("-c", "--color",
+                        help="Colors printed items according to relative value.",
+                        action="store_true")
+    parser.add_argument("-r", "--reverse",
+                        help="Reverses the order of items printed. Most useful when used with '--list'.",
+                        action="store_true")
+    parser.add_argument("-v", "--verbose",
+                        help="Prints out detailed information when updating prices.",
+                        action="store_true")
+    group = parser.add_argument_group('set options')
+    group.add_argument("--set",
+                       metavar=('OPTION', '{always, never}'), choices=["always", "never"], nargs=2,
+                       help="Sets an option to a default behavior.",
+                       action="store")
+    parser.add_argument("ores", type=str, nargs="*", help="The ore(s) to fetch prices for.")
+    return vars(parser.parse_args())
+
+
+def setPersistentOptions(sets):
+    if sets[0] == "refine":
+        OPTIONS[sets[0]] = round(float(sets[1]) * .01, 4)
+    else:
+        OPTIONS[sets[0]] = 1 if sets[1] == "always" else 0
+    with open("options.json", 'w') as wf:
+        json.dump(OPTIONS, wf, indent=2, separators=(',', ': '))
 
 
 if __name__ == "__main__":
